@@ -1,0 +1,202 @@
+electrode,verdict_label,production_date,vats,note_corrected,set_time,actual_time,overrun,pct_of_set,pct_over_set
+B14770,cracked,2026-08-31,28,Cracked,180,7342.0,7162.0,4078.89,3978.89
+B14154,cracked,2026-08-02,28,Cracked,180,747.0,567.0,415.0,315.0
+B14525,cracked,2026-08-21,28,Cracked,180,529.0,349.0,293.89,193.89
+B14691,not cracked,2026-08-28,28,Microcracks,180,456.0,276.0,253.33,153.33
+B14940,cracked,2026-09-05,28,Cracked,180,400.0,220.0,222.22,122.22
+B14977,not cracked,2026-09-06,29,Less cracked,180,398.0,218.0,221.11,121.11
+B14942,not cracked,2026-09-05,30,Microcracks,180,398.0,218.0,221.11,121.11
+B14992,not cracked,2026-09-07,30,Less cracked,180,392.0,212.0,217.78,117.78
+B14418,not cracked,2026-08-18,28,Microcracks,180,386.0,206.0,214.44,114.44
+B15035,cracked,2026-09-08,29,Cracked,180,381.0,201.0,211.67,111.67
+B14623,cracked,2026-08-25,28,Cracked,180,357.0,177.0,198.33,98.33
+B14920,not cracked,2026-09-05,28,Less cracked,180,355.0,175.0,197.22,97.22
+B14759,cracked,2026-08-30,30,Cracked,180,352.0,172.0,195.56,95.56
+B14551,not cracked,2026-08-22,28,Microcracks/small cracks,180,349.0,169.0,193.89,93.89
+B14599,not cracked,2026-08-24,28,Microcracks,180,345.0,165.0,191.67,91.67
+B14999,cracked,2026-09-07,29,Cracked,180,322.0,142.0,178.89,78.89
+B14910,not cracked,2026-09-04,28,Microcracks,180,311.0,131.0,172.78,72.78
+B14950,cracked,2026-09-06,30,Cracked,180,309.0,129.0,171.67,71.67
+B14716,not cracked,2026-08-29,28,Microcracks,180,309.0,129.0,171.67,71.67
+B15102,not cracked,2026-09-10,29,Fine,180,306.0,126.0,170.0,70.0
+B14951,cracked,2026-09-06,28,Cracked,180,306.0,126.0,170.0,70.0
+B15015,not cracked,2026-09-07,29,Microcracks,180,280.0,100.0,155.56,55.56
+B14440,not cracked,2026-08-18,30,Microcracks,180,272.0,92.0,151.11,51.11
+B14684,not cracked,2026-08-28,28,Microcracks,180,270.0,90.0,150.0,50.0
+B15118,not cracked,2026-09-10,28,Microcracks,180,267.0,87.0,148.33,48.33
+B14439,not cracked,2026-08-18,28,Microcracks,180,264.0,84.0,146.67,46.67
+B14838,not cracked,2026-09-02,30,Microcracks,180,263.0,83.0,146.11,46.11
+B14572,not cracked,2026-08-23,30,Small cracks,180,262.0,82.0,145.56,45.56
+B14824,not cracked,2026-09-01,29,Microcracks,180,260.0,80.0,144.44,44.44
+B13883,not cracked,2026-07-14,28,Fine,180,259.0,79.0,143.89,43.89
+B14839,not cracked,2026-09-02,28,Microcracks,180,258.0,78.0,143.33,43.33
+B14727,cracked,2026-08-29,30,Cracked,180,253.0,73.0,140.56,40.56
+B14626,cracked,2026-08-25,30,Cracked,180,252.0,72.0,140.0,40.0
+B14662,cracked,2026-08-26,30,Cracked,180,250.0,70.0,138.89,38.89
+B14633,cracked,2026-08-25,30,Cracked,180,248.0,68.0,137.78,37.78
+B14806,not cracked,2026-09-01,30,Microcracks,180,244.0,64.0,135.56,35.56
+B14056,not cracked,2026-07-26,28,Small cracks,180,240.0,60.0,133.33,33.33
+B14908,not cracked,2026-09-04,29,Microcracks,180,236.0,56.0,131.11,31.11
+B14002,not cracked,2026-07-23,28,Microcracks/small cracks,180,235.0,55.0,130.56,30.56
+B14959,cracked,2026-09-06,30,Cracked,180,234.0,54.0,130.0,30.0
+B14993,cracked,2026-09-07,29,Cracked,180,228.0,48.0,126.67,26.67
+B15061,not cracked,2026-09-09,30,Microcracks,180,227.0,47.0,126.11,26.11
+B14130,cracked,2026-07-31,28,Cracked,180,227.0,47.0,126.11,26.11
+B14361,not cracked,2026-08-14,28,Less cracked,180,225.0,45.0,125.0,25.0
+B14745,not cracked,2026-08-30,28,Microcracks,180,215.0,35.0,119.44,19.44
+B13866,cracked,2026-07-12,28,Cracked,180,211.0,31.0,117.22,17.22
+B13882,not cracked,2026-07-14,28,Fine,180,201.0,21.0,111.67,11.67
+B15006,cracked,2026-09-07,29,Cracked,180,201.0,21.0,111.67,11.67
+B14837,not cracked,2026-09-02,29,Microcracks,180,198.0,18.0,110.0,10.0
+B14807,not cracked,2026-09-01,29,Microcracks,180,198.0,18.0,110.0,10.0
+B14786,cracked,2026-08-31,30,Cracked,180,198.0,18.0,110.0,10.0
+B14881,not cracked,2026-09-03,28,Small cracks,180,197.0,17.0,109.44,9.44
+B15030,not cracked,2026-09-08,28,Microcracks,180,197.0,17.0,109.44,9.44
+B14575,not cracked,2026-08-23,28,Microcracks,180,196.0,16.0,108.89,8.89
+B14779,cracked,2026-08-31,30,Cracked,180,195.0,15.0,108.33,8.33
+B15000,cracked,2026-09-07,30,Cracked,180,192.0,12.0,106.67,6.67
+B14909,not cracked,2026-09-04,30,Microcracks,180,190.0,10.0,105.56,5.56
+B14596,not cracked,2026-08-24,30,Microcracks,180,185.0,5.0,102.78,2.78
+B14548,cracked,2026-08-22,30,Cracked,180,183.0,3.0,101.67,1.67
+B13881,not cracked,2026-07-14,28,Fine,180,181.0,1.0,100.56,0.56
+B13863,not cracked,2026-07-11,28,Less cracked,180,180.0,0.0,100.0,0.0
+B13891,not cracked,2026-07-15,28,Microcracks,180,180.0,0.0,100.0,0.0
+B13888,not cracked,2026-07-14,28,Small cracks,180,180.0,0.0,100.0,0.0
+B13887,not cracked,2026-07-14,28,Small cracks,180,180.0,0.0,100.0,0.0
+B13892,not cracked,2026-07-15,28,Microcracks,180,180.0,0.0,100.0,0.0
+B13925,not cracked,2026-07-20,28,Microcracks,180,180.0,0.0,100.0,0.0
+B13926,not cracked,2026-07-20,28,Microcracks,180,180.0,0.0,100.0,0.0
+B13951,not cracked,2026-07-21,28,Microcracks/small cracks,180,180.0,0.0,100.0,0.0
+B13945,not cracked,2026-07-20,28,Microcracks,180,180.0,0.0,100.0,0.0
+B13900,cracked,2026-07-16,28,Cracked,180,180.0,0.0,100.0,0.0
+B13913,not cracked,2026-07-17,28,Microcracks,180,180.0,0.0,100.0,0.0
+B13895,cracked,2026-07-15,28,Cracked,180,180.0,0.0,100.0,0.0
+B13862,not cracked,2026-07-11,28,Less cracked,180,180.0,0.0,100.0,0.0
+B14243,not cracked,2026-08-08,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14240,not cracked,2026-08-08,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14237,cracked,2026-08-07,28,Cracked,180,180.0,0.0,100.0,0.0
+B14234,cracked,2026-08-07,28,Cracked,180,180.0,0.0,100.0,0.0
+B14229,not cracked,2026-08-07,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14225,not cracked,2026-08-07,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14218,not cracked,2026-08-06,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14209,not cracked,2026-08-06,28,Microcracks/small cracks,180,180.0,0.0,100.0,0.0
+B14206,not cracked,2026-08-06,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14202,not cracked,2026-08-05,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14200,not cracked,2026-08-05,28,Less cracked,180,180.0,0.0,100.0,0.0
+B14192,not cracked,2026-08-04,28,Small cracks,180,180.0,0.0,100.0,0.0
+B14184,not cracked,2026-08-03,28,Microcracks/small cracks,180,180.0,0.0,100.0,0.0
+B14175,cracked,2026-08-03,28,Cracked,180,180.0,0.0,100.0,0.0
+B14174,not cracked,2026-08-03,28,Microcracks/small cracks,180,180.0,0.0,100.0,0.0
+B14172,cracked,2026-08-03,28,Cracked,180,180.0,0.0,100.0,0.0
+B14168,cracked,2026-08-02,28,Cracked,180,180.0,0.0,100.0,0.0
+B14165,cracked,2026-08-02,28,Cracked,180,180.0,0.0,100.0,0.0
+B14159,not cracked,2026-08-02,28,Microcracks/small cracks,180,180.0,0.0,100.0,0.0
+B14151,cracked,2026-08-01,28,Cracked,180,180.0,0.0,100.0,0.0
+B14141,cracked,2026-08-01,28,Cracked,180,180.0,0.0,100.0,0.0
+B14144,cracked,2026-08-01,28,Cracked,180,180.0,0.0,100.0,0.0
+B14140,cracked,2026-08-01,28,Cracked,180,180.0,0.0,100.0,0.0
+B14137,cracked,2026-08-01,28,Cracked,180,180.0,0.0,100.0,0.0
+B14116,cracked,2026-07-30,28,Cracked,180,180.0,0.0,100.0,0.0
+B14134,not cracked,2026-07-31,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14133,not cracked,2026-07-31,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14129,cracked,2026-07-31,28,Cracked,180,180.0,0.0,100.0,0.0
+B14100,cracked,2026-07-29,28,Cracked,180,180.0,0.0,100.0,0.0
+B14127,cracked,2026-07-31,28,Cracked,180,180.0,0.0,100.0,0.0
+B14095,cracked,2026-07-28,28,Cracked,180,180.0,0.0,100.0,0.0
+B14098,cracked,2026-07-29,28,Cracked,180,180.0,0.0,100.0,0.0
+B13896,cracked,2026-07-15,28,Cracked,180,180.0,0.0,100.0,0.0
+B13994,not cracked,2026-07-23,28,Microcracks/small cracks,180,180.0,0.0,100.0,0.0
+B14092,not cracked,2026-07-28,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14088,not cracked,2026-07-28,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14087,not cracked,2026-07-28,28,Small cracks,180,180.0,0.0,100.0,0.0
+B14081,not cracked,2026-07-28,28,Small cracks,180,180.0,0.0,100.0,0.0
+B14076,not cracked,2026-07-27,28,Small cracks,180,180.0,0.0,100.0,0.0
+B14071,not cracked,2026-07-27,28,Small cracks,180,180.0,0.0,100.0,0.0
+B14063,not cracked,2026-07-26,28,Small cracks,180,180.0,0.0,100.0,0.0
+B14050,not cracked,2026-07-26,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14037,not cracked,2026-07-25,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14033,not cracked,2026-07-25,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14020,not cracked,2026-07-24,28,Small cracks,180,180.0,0.0,100.0,0.0
+B14023,not cracked,2026-07-24,28,Microcracks/small cracks,180,180.0,0.0,100.0,0.0
+B14016,not cracked,2026-07-24,28,Microcracks/small cracks,180,180.0,0.0,100.0,0.0
+B13999,not cracked,2026-07-23,28,Less cracked,180,180.0,0.0,100.0,0.0
+B13893,not cracked,2026-07-15,28,Microcracks,180,180.0,0.0,100.0,0.0
+B13917,not cracked,2026-07-17,28,Microcracks,180,180.0,0.0,100.0,0.0
+B13967,not cracked,2026-07-22,28,Small cracks,180,180.0,0.0,100.0,0.0
+B13953,not cracked,2026-07-21,28,Small cracks,180,180.0,0.0,100.0,0.0
+B14355,not cracked,2026-08-13,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14352,cracked,2026-08-14,28,Cracked,180,180.0,0.0,100.0,0.0
+B14268,not cracked,2026-08-10,28,Fine,180,180.0,0.0,100.0,0.0
+B14275,not cracked,2026-08-10,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14318,not cracked,2026-08-12,28,Microcracks/small cracks,180,180.0,0.0,100.0,0.0
+B14325,not cracked,2026-08-12,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14347,not cracked,2026-08-13,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14358,cracked,2026-08-13,28,Cracked,180,180.0,0.0,100.0,0.0
+B14375,not cracked,2026-08-15,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14266,not cracked,2026-08-09,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14280,not cracked,2026-08-10,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14252,not cracked,2026-08-08,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14312,not cracked,2026-08-11,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14631,not cracked,2026-08-25,28,Less cracked,180,180.0,0.0,100.0,0.0
+B14617,not cracked,2026-08-25,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14608,not cracked,2026-08-24,30,Microcracks,180,180.0,0.0,100.0,0.0
+B14566,cracked,2026-08-23,30,Cracked,180,180.0,0.0,100.0,0.0
+B14560,cracked,2026-08-23,30,Cracked,180,180.0,0.0,100.0,0.0
+B14557,not cracked,2026-08-23,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14620,not cracked,2026-08-25,30,Less cracked,180,180.0,0.0,100.0,0.0
+B14524,not cracked,2026-08-21,30,Less cracked,180,180.0,0.0,100.0,0.0
+B14500,not cracked,2026-08-21,30,Less cracked,180,180.0,0.0,100.0,0.0
+B14519,not cracked,2026-08-21,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14513,not cracked,2026-08-21,30,Microcracks/small cracks,180,180.0,0.0,100.0,0.0
+B14537,not cracked,2026-08-22,30,Microcracks/small cracks,180,180.0,0.0,100.0,0.0
+B14531,not cracked,2026-08-22,28,Less cracked,180,180.0,0.0,100.0,0.0
+B14542,cracked,2026-08-22,30,Cracked,180,180.0,0.0,100.0,0.0
+B14584,not cracked,2026-08-24,30,Small cracks,180,180.0,0.0,100.0,0.0
+B14475,not cracked,2026-08-20,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14474,not cracked,2026-08-20,30,Small cracks,180,180.0,0.0,100.0,0.0
+B14488,not cracked,2026-08-20,30,Microcracks,180,180.0,0.0,100.0,0.0
+B14499,not cracked,2026-08-20,28,Less cracked,180,180.0,0.0,100.0,0.0
+B14463,not cracked,2026-08-19,30,Small cracks,180,180.0,0.0,100.0,0.0
+B14378,not cracked,2026-08-15,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14365,not cracked,2026-08-14,28,Fine,180,180.0,0.0,100.0,0.0
+B14369,not cracked,2026-08-14,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14386,not cracked,2026-08-15,28,Less cracked,180,180.0,0.0,100.0,0.0
+B14383,not cracked,2026-08-15,28,Less cracked,180,180.0,0.0,100.0,0.0
+B14404,not cracked,2026-08-16,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14396,not cracked,2026-08-16,28,Less cracked,180,180.0,0.0,100.0,0.0
+B14414,not cracked,2026-08-17,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14421,cracked,2026-08-18,28,Cracked,180,180.0,0.0,100.0,0.0
+B14425,not cracked,2026-08-18,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14431,not cracked,2026-08-18,30,Microcracks,180,180.0,0.0,100.0,0.0
+B14856,not cracked,2026-09-02,30,Microcracks,180,180.0,0.0,100.0,0.0
+B14301,not cracked,2026-08-11,28,Microcracks/small cracks,180,180.0,0.0,100.0,0.0
+B14293,not cracked,2026-08-11,28,Small cracks,180,180.0,0.0,100.0,0.0
+B14342,not cracked,2026-08-13,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14333,not cracked,2026-08-12,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14327,not cracked,2026-08-12,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14780,not cracked,2026-08-31,28,Small cracks,180,180.0,0.0,100.0,0.0
+B14659,cracked,2026-08-26,28,Cracked,180,180.0,0.0,100.0,0.0
+B14690,not cracked,2026-08-28,30,Less cracked,180,180.0,0.0,100.0,0.0
+B14683,not cracked,2026-08-28,30,Microcracks,180,180.0,0.0,100.0,0.0
+B14674,not cracked,2026-08-27,30,Less cracked,180,180.0,0.0,100.0,0.0
+B14668,cracked,2026-08-27,30,Cracked,180,180.0,0.0,100.0,0.0
+B14634,cracked,2026-08-25,30,Cracked,180,180.0,0.0,100.0,0.0
+B14715,not cracked,2026-08-29,30,Less cracked,180,180.0,0.0,100.0,0.0
+B14721,cracked,2026-08-29,30,Cracked,180,180.0,0.0,100.0,0.0
+B14733,cracked,2026-08-29,30,Cracked,180,180.0,0.0,100.0,0.0
+B14970,not cracked,2026-09-06,29,Less cracked,180,180.0,0.0,100.0,0.0
+B14855,not cracked,2026-09-02,29,Microcracks,180,180.0,0.0,100.0,0.0
+B14808,not cracked,2026-09-01,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14792,not cracked,2026-08-31,29,Microcracks,180,180.0,0.0,100.0,0.0
+B14778,not cracked,2026-08-31,29,Microcracks,180,180.0,0.0,100.0,0.0
+B14761,not cracked,2026-08-30,28,Microcracks,180,180.0,0.0,100.0,0.0
+B14878,not cracked,2026-09-03,29,Less cracked,180,180.0,0.0,100.0,0.0
+B14880,not cracked,2026-09-03,30,Less cracked,180,180.0,0.0,100.0,0.0
+B15024,cracked,2026-09-08,28,Cracked,180,180.0,0.0,100.0,0.0
+B14968,not cracked,2026-09-06,30,Microcracks,180,180.0,0.0,100.0,0.0
+B14960,not cracked,2026-09-06,28,Less cracked,180,180.0,0.0,100.0,0.0
+B14929,cracked,2026-09-05,28,Cracked,180,180.0,0.0,100.0,0.0
+B15043,not cracked,2026-09-08,28,Microcracks,180,180.0,0.0,100.0,0.0
+B15028,not cracked,2026-09-08,29,Microcracks,180,180.0,0.0,100.0,0.0
+B15121,cracked,2026-09-10,28,Cracked,180,180.0,0.0,100.0,0.0
+B14449,not cracked,2026-08-19,28|30,Microcracks,360,180.0,-180.0,50.0,-50.0

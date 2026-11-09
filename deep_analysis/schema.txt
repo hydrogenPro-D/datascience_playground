@@ -1,0 +1,297 @@
+Loading configuration from C:\Users\CsengerMolnár\OneDrive - HydrogenPro ASA\Dokumenter\GitHub\datascience_playground\config\config.json...
+✓ Configuration loaded successfully
+Connecting to database dataloggingDev on server datalogging-sql-serverdev.database.windows.net as dbReadOnly...
+✓ Database connection established
+
+==============================================================================
+TABLES AND VIEWS
+==============================================================================
+ schema                          name       type
+    dbo         __EFMigrationsHistory BASE TABLE
+    dbo                      MetaData BASE TABLE
+    dbo                   ProcessData BASE TABLE
+    dbo                ProductionData BASE TABLE
+     qc            activator_bath_log BASE TABLE
+     qc    activator_bath_measurement BASE TABLE
+     qc                      chemical BASE TABLE
+     qc             chemical_addition BASE TABLE
+     qc         chemical_addition_log BASE TABLE
+     qc     chemical_addition_log_vat BASE TABLE
+     qc              cleaner_bath_log BASE TABLE
+     qc      cleaner_bath_measurement BASE TABLE
+     qc              conductivity_log BASE TABLE
+     qc          conductivity_vat_log BASE TABLE
+     qc             contamination_log BASE TABLE
+     qc     contamination_measurement BASE TABLE
+     qc     electrode_chemical_dosage BASE TABLE
+     qc electrode_production_tracking BASE TABLE
+     qc      electrode_production_vat BASE TABLE
+     qc                        ph_log BASE TABLE
+     qc                    ph_log_vat BASE TABLE
+     qc                ph_measurement BASE TABLE
+     qc                plate_bath_log BASE TABLE
+     qc        plate_bath_measurement BASE TABLE
+     qc             schema_migrations BASE TABLE
+     qc               strike_bath_log BASE TABLE
+     qc       strike_bath_measurement BASE TABLE
+     qc                           vat BASE TABLE
+     qc             water_quality_log BASE TABLE
+qc_data              electrode_status BASE TABLE
+qc_data         electrode_status_kind BASE TABLE
+qc_data              qc_board_archive BASE TABLE
+qc_data                qc_board_entry BASE TABLE
+qc_data                qc_board_stage BASE TABLE
+qc_data             schema_migrations BASE TABLE
+qc_data                 sem_electrode BASE TABLE
+qc_data           sem_element_reading BASE TABLE
+qc_data                sem_generation BASE TABLE
+qc_data                    sem_sample BASE TABLE
+qc_data              sem_sample_image BASE TABLE
+     qc             vw_activator_bath       VIEW
+     qc           vw_adding_chemicals       VIEW
+     qc           vw_change_watermark       VIEW
+     qc               vw_cleaner_bath       VIEW
+     qc               vw_conductivity       VIEW
+     qc              vw_contamination       VIEW
+     qc  vw_electrode_chemical_dosage       VIEW
+     qc                 vw_ph_control       VIEW
+     qc              vw_plate_bath_28       VIEW
+     qc              vw_plate_bath_29       VIEW
+     qc              vw_plate_bath_30       VIEW
+     qc        vw_production_tracking       VIEW
+     qc                vw_strike_bath       VIEW
+     qc              vw_water_quality       VIEW
+qc_data           vw_change_watermark       VIEW
+qc_data           vw_electrode_status       VIEW
+qc_data                   vw_qc_board       VIEW
+qc_data           vw_qc_board_archive       VIEW
+qc_data            vw_sem_measurement       VIEW
+    sys       database_firewall_rules       VIEW
+
+==============================================================================
+COLUMNS OF EVERY TABLE / VIEW
+==============================================================================
+
+[dbo.MetaData]
+  Id:bigint, Date:datetimeoffset, Vb_total:bigint, Vb_dag:bigint, Start_tid:bigint, Man_stop_tid:bigint, Alarm_tid:bigint, Flight_bar_nr:bigint, Rcp_nr:bigint, Full_name:nvarchar, Marking:nvarchar
+
+[dbo.ProcessData]
+  Id:bigint, Marking:nvarchar, Proces:int, Rcp_tid:bigint, Aktuel_tid:bigint, Ampere_timer:bigint, Temperatur:int
+
+[dbo.ProductionData]
+  Id:bigint, Kar:int, Unik_nummer:nvarchar, Value:decimal, Type:int, Aktuel_tid:datetimeoffset
+
+[dbo.__EFMigrationsHistory]
+  MigrationId:nvarchar, ProductVersion:nvarchar
+
+[qc.activator_bath_log]
+  id:int, date:date, vat_id:int, measured_by:nvarchar, notes:nvarchar, row_version:timestamp, created_at:datetime2
+
+[qc.activator_bath_measurement]
+  id:int, activator_bath_log_id:int, measurement_number:int, measurement:decimal, measurement_type:nvarchar
+
+[qc.chemical]
+  id:int, name:nvarchar, unit:nvarchar
+
+[qc.chemical_addition]
+  id:int, chemical_addition_log_vat_id:int, chemical_id:int, chemical_amount:decimal, concentration:int
+
+[qc.chemical_addition_log]
+  id:int, date:date, time_when_added:time, added_by:nvarchar, notes:nvarchar, row_version:timestamp, created_at:datetime2
+
+[qc.chemical_addition_log_vat]
+  id:int, vat_id:int, chemical_addition_log_id:int, water_level_reduction:int
+
+[qc.cleaner_bath_log]
+  id:int, date:date, vat_id:int, measured_by:nvarchar, notes:nvarchar, row_version:timestamp, created_at:datetime2
+
+[qc.cleaner_bath_measurement]
+  id:int, cleaner_bath_log_id:int, measurement_number:int, measurement:decimal, measurement_type:nvarchar
+
+[qc.conductivity_log]
+  id:int, date:date, logged_by:nvarchar, observation:nvarchar, row_version:timestamp, created_at:datetime2
+
+[qc.conductivity_vat_log]
+  id:int, conductivity_log_id:int, vat_id:int, rinse_number:int, conductivity:decimal, stage:nvarchar
+
+[qc.contamination_log]
+  id:int, line:nvarchar, sampling_date:date, sample_taken_by:nvarchar, created_at:datetime2, row_version:timestamp, notes:nvarchar
+
+[qc.contamination_measurement]
+  id:int, contamination_log_id:int, vat:nvarchar, metal:nvarchar, value:nvarchar
+
+[qc.electrode_chemical_dosage]
+  id:int, date:datetime2, name:nvarchar, tu_value:int, ba_value:int, co_value:int, row_version:timestamp
+
+[qc.electrode_production_tracking]
+  id:int, chemical_addition_log_id:int, shift:nvarchar, date:date, tu_dose_g_per_electrode:decimal, ba_dose_g_per_electrode:decimal, co_dose_g_per_electrode:decimal, row_version:timestamp
+
+[qc.electrode_production_vat]
+  id:int, electrode_production_tracking_id:int, vat_id:int, prod_electrodes_sum:int, prod_electrodes_shift:int
+
+[qc.ph_log]
+  id:int, date:date, sample_taken_time:time, time_of_measurement:time, measured_by:nvarchar, notes:nvarchar, row_version:timestamp, created_at:datetime2
+
+[qc.ph_log_vat]
+  id:int, vat_id:int, ph_log_id:int, chemical_id:int, chemical_amount:decimal, chemical_addition_time:time
+
+[qc.ph_measurement]
+  id:int, ph_log_vat_id:int, measurement_number:int, ph_value:decimal
+
+[qc.plate_bath_log]
+  id:int, date:date, vat_id:int, measured_by:nvarchar, notes:nvarchar, row_version:timestamp, created_at:datetime2
+
+[qc.plate_bath_measurement]
+  id:int, plate_bath_log_id:int, measurement_number:int, measurement:decimal, measurement_type:nvarchar
+
+[qc.schema_migrations]
+  id:int, filename:nvarchar, applied_at_utc:datetime2, applied_by:nvarchar
+
+[qc.strike_bath_log]
+  id:int, date:date, vat_id:int, measured_by:nvarchar, notes:nvarchar, row_version:timestamp, created_at:datetime2
+
+[qc.strike_bath_measurement]
+  id:int, strike_bath_log_id:int, measurement_number:int, measurement:decimal, measurement_type:nvarchar
+
+[qc.vat]
+  id:int, name:nvarchar, type:nvarchar
+
+[qc.vw_activator_bath]
+  activator_bath_log_id:int, Row added:datetime2, Date:date, Name:nvarchar, pH 1st:decimal, pH 2nd:decimal, Decasel5 Titration 1st (ml):decimal, Decasel5 Titration 2nd (ml):decimal, Nickel Titration 1st (ml):decimal, Nickel Titration 2nd (ml):decimal, Notes:nvarchar
+
+[qc.vw_adding_chemicals]
+  chemical_addition_log_id:int, Row added:datetime2, Date:date, Initials:nvarchar, Vat. 17 (Cathodic) (kg):nvarchar, Vat. 18 (Activation ) (kg):nvarchar, Vat. 28 (Plating 1) (kg):nvarchar, Vat. 28 (Plating 1) Water Level Reduction (cm):varchar, Vat. 29 (Plating 2) (kg):nvarchar, Vat. 29 (Plating 2) Water Level Reduction (cm):varchar, Vat. 30 (Plating 3) (kg):nvarchar, Vat. 30 (Plating 3) Water Level Reduction (cm):varchar, Vat. 31 (Strike) (kg):nvarchar, Vat. 31 (Strike) Water Level Reduction (cm):varchar, Time when added:time, Notes:nvarchar
+
+[qc.vw_change_watermark]
+  entity:varchar, max_row_version:bigint, row_count:bigint
+
+[qc.vw_cleaner_bath]
+  cleaner_bath_log_id:int, Row added:datetime2, Date:date, Name:nvarchar, pH 1st:decimal, pH 2nd:decimal, Titration step 1 measurement 1:decimal, Titration step 1 measurement 2:decimal, Titration step 2 measurement 1:decimal, Titration step 2 measurement 2:decimal, Schloetter protocol 1:decimal, Schloetter protocol 2:decimal, Notes:nvarchar
+
+[qc.vw_conductivity]
+  conductivity_log_id:int, Row added:datetime2, Date:date, Name:nvarchar, Cathodic Rinse 1 - pos.14 (µS/cm):decimal, Cathodic Rinse 2 - pos.13 (µS/cm):decimal, Cathodic Rinse 3 - pos.12 (µS/cm):decimal, Activation Rinse 1 - pos.19 (µS/cm):decimal, Activation Rinse 2 - pos.20 (µS/cm):decimal, Strike Rinse 1 - pos.25 (µS/cm):decimal, Plating Rinse 1 - pos.24 (µS/cm):decimal, Plating Rinse 2 - pos.23 (µS/cm):decimal, Plating Rinse 3 - pos.22 (µS/cm):decimal, Plating Rinse 4 - pos.21 (µS/cm):decimal, Additional observations:nvarchar
+
+[qc.vw_contamination]
+  id:int, Sampling date:date, Sample taken by:nvarchar, Pos.28 Cr:nvarchar, Pos.28 Cu:nvarchar, Pos.28 Fe:nvarchar, Pos.28 Zn:nvarchar, Pos.28 Pb:nvarchar, Pos.29 Cr:nvarchar, Pos.29 Cu:nvarchar, Pos.29 Fe:nvarchar, Pos.29 Zn:nvarchar, Pos.29 Pb:nvarchar, Pos.30 Cr:nvarchar, Pos.30 Cu:nvarchar, Pos.30 Fe:nvarchar, Pos.30 Zn:nvarchar, Pos.30 Pb:nvarchar, Pos.31 Cr:nvarchar, Pos.31 Cu:nvarchar, Pos.31 Fe:nvarchar, Pos.31 Zn:nvarchar, Pos.31 Pb:nvarchar, Notes:nvarchar, Row added:datetime2
+
+[qc.vw_electrode_chemical_dosage]
+  id:int, date:date, time:time, name:nvarchar, tu_value:int, ba_value:int, co_value:int
+
+[qc.vw_ph_control]
+  ph_log_id:int, Row added:datetime2, Date:date, Initials:nvarchar, pH Vat. 28 1 meas.:decimal, pH Vat. 28 2 meas.:decimal, pH Vat. 29 1 meas.:decimal, pH Vat. 29 2 meas.:decimal, pH Vat. 30 1 meas.:decimal, pH Vat. 30 2 meas.:decimal, pH Vat. 31 - Strike:decimal, Added to vat.28 (L):nvarchar, Added to vat.29 (L):nvarchar, Added to vat.30 (L):nvarchar, Added to vat.31 (kg):nvarchar, Time of measurement:time, Sample taken time:time, Time when added:time, Notes:nvarchar
+
+[qc.vw_plate_bath_28]
+  plate_bath_log_id:int, Row added:datetime2, Date:date, Name:nvarchar, pH 1st:decimal, pH 2nd:decimal, Ni2+ Titration 1st (ml):decimal, Ni2+ Titration 2nd (ml):decimal, Cl- Titration 1st (ml):decimal, Cl- Titration 2nd (ml):decimal, ThioUrea Titration 1st (ml):decimal, ThioUrea Titration 2nd (ml):decimal, Boric Acid Titration 1st (ml):decimal, Boric Acid Titration 2nd (ml):decimal, Notes:nvarchar
+
+[qc.vw_plate_bath_29]
+  plate_bath_log_id:int, Row added:datetime2, Date:date, Name:nvarchar, pH 1st:decimal, pH 2nd:decimal, Ni2+ Titration 1st (ml):decimal, Ni2+ Titration 2nd (ml):decimal, Cl- Titration 1st (ml):decimal, Cl- Titration 2nd (ml):decimal, ThioUrea Titration 1st (ml):decimal, ThioUrea Titration 2nd (ml):decimal, Boric Acid Titration 1st (ml):decimal, Boric Acid Titration 2nd (ml):decimal, Notes:nvarchar
+
+[qc.vw_plate_bath_30]
+  plate_bath_log_id:int, Row added:datetime2, Date:date, Name:nvarchar, pH 1st:decimal, pH 2nd:decimal, Ni2+ Titration 1st (ml):decimal, Ni2+ Titration 2nd (ml):decimal, Cl- Titration 1st (ml):decimal, Cl- Titration 2nd (ml):decimal, ThioUrea Titration 1st (ml):decimal, ThioUrea Titration 2nd (ml):decimal, Boric Acid Titration 1st (ml):decimal, Boric Acid Titration 2nd (ml):decimal, Notes:nvarchar
+
+[qc.vw_production_tracking]
+  electrode_production_tracking_id:int, Shift:nvarchar, Date:date, Vat 28:int, Vat 29:int, Vat 30:int, Vat 28 (shift):int, Vat 29 (shift):int, Vat 30 (shift):int, TU (g/electrode):decimal, BA (g/electrode):decimal, CoSO4 (g/electrode):decimal
+
+[qc.vw_strike_bath]
+  strike_bath_log_id:int, Row added:datetime2, Date:date, Name:nvarchar, pH 1st:decimal, pH 2nd:decimal, Ni2+ Titration 1st (ml):decimal, Ni2+ Titration 2nd (ml):decimal, Cl- Titration 1st (ml):decimal, Cl- Titration 2nd (ml):decimal, HCl+ Titration 1st (ml):decimal, HCl+ Titration 2nd (ml):decimal, Notes:nvarchar
+
+[qc.vw_water_quality]
+  id:int, Date:date, Time of measurement:time, Operator:nvarchar, Conductivity (µS/cm):decimal, pH:decimal, Notes:nvarchar, Row added:datetime2
+
+[qc.water_quality_log]
+  id:int, date:date, time_of_measurement:time, operator:nvarchar, conductivity:decimal, ph:decimal, created_at:datetime2, row_version:timestamp, notes:nvarchar
+
+[qc_data.electrode_status]
+  electrode:nvarchar, status:nvarchar, source:nvarchar, updated_at_utc:datetime2, row_version:timestamp
+
+[qc_data.electrode_status_kind]
+  status:nvarchar
+
+[qc_data.qc_board_archive]
+  electrode:nvarchar, status:nvarchar, caused_by:nvarchar, test_first:bit, archived_at_utc:datetime2, row_version:timestamp
+
+[qc_data.qc_board_entry]
+  electrode:nvarchar, stage:nvarchar, electrode_type:nvarchar, ic_result:nvarchar, updated_at_utc:datetime2, row_version:timestamp, sem_result:nvarchar
+
+[qc_data.qc_board_stage]
+  stage:nvarchar, status:nvarchar
+
+[qc_data.schema_migrations]
+  id:int, filename:nvarchar, applied_at_utc:datetime2, applied_by:nvarchar
+
+[qc_data.sem_electrode]
+  generation:nvarchar, electrode:nvarchar, electrode_type:nvarchar, folder:nvarchar, updated_at_utc:datetime2, row_version:timestamp
+
+[qc_data.sem_element_reading]
+  generation:nvarchar, electrode:nvarchar, position:nvarchar, point:int, symbol:nvarchar, value:decimal, row_version:timestamp
+
+[qc_data.sem_generation]
+  generation:nvarchar
+
+[qc_data.sem_sample]
+  generation:nvarchar, electrode:nvarchar, position:nvarchar, zoom:nvarchar, operator:nvarchar, note:nvarchar, measured_on:date, updated_at_utc:datetime2, row_version:timestamp
+
+[qc_data.sem_sample_image]
+  generation:nvarchar, electrode:nvarchar, position:nvarchar, ordinal:int, filename:nvarchar, row_version:timestamp
+
+[qc_data.vw_change_watermark]
+  entity:nvarchar, max_row_version:bigint, row_count:bigint
+
+[qc_data.vw_electrode_status]
+  electrode:nvarchar, status:nvarchar, source:nvarchar, updated_at_utc:datetime2
+
+[qc_data.vw_qc_board]
+  electrode:nvarchar, stage:nvarchar, electrode_type:nvarchar, ic_result:nvarchar, sem_result:nvarchar, updated_at_utc:datetime2
+
+[qc_data.vw_qc_board_archive]
+  electrode:nvarchar, status:nvarchar, caused_by:nvarchar, test_first:bit, archived_at_utc:datetime2
+
+[qc_data.vw_sem_measurement]
+  generation:nvarchar, electrode:nvarchar, electrode_type:nvarchar, folder:nvarchar, position:nvarchar, zoom:nvarchar, operator:nvarchar, note:nvarchar, measured_on:date, point:int, symbol:nvarchar, value:decimal, images:nvarchar
+
+[sys.database_firewall_rules]
+  id:int, name:nvarchar, start_ip_address:varchar, end_ip_address:varchar, create_date:datetime, modify_date:datetime
+
+==============================================================================
+ROW COUNTS (tables only)
+==============================================================================
+  [dbo].[__EFMigrationsHistory]                                 3
+  [dbo].[MetaData]                                         15,351
+  [dbo].[ProcessData]                                     337,604
+  [dbo].[ProductionData]                                4,591,000
+  [qc].[activator_bath_log]                                    79
+  [qc].[activator_bath_measurement]                           424
+  [qc].[chemical]                                              10
+  [qc].[chemical_addition]                                  2,663
+  [qc].[chemical_addition_log]                                513
+  [qc].[chemical_addition_log_vat]                          1,274
+  [qc].[cleaner_bath_log]                                      82
+  [qc].[cleaner_bath_measurement]                             365
+  [qc].[conductivity_log]                                     152
+  [qc].[conductivity_vat_log]                               1,484
+  [qc].[contamination_log]                                      9
+  [qc].[contamination_measurement]                            154
+  [qc].[electrode_chemical_dosage]                              5
+  [qc].[electrode_production_tracking]                        414
+  [qc].[electrode_production_vat]                           1,242
+  [qc].[ph_log]                                               959
+  [qc].[ph_log_vat]                                         2,378
+  [qc].[ph_measurement]                                     3,358
+  [qc].[plate_bath_log]                                       267
+  [qc].[plate_bath_measurement]                             2,237
+  [qc].[schema_migrations]                                     24
+  [qc].[strike_bath_log]                                      100
+  [qc].[strike_bath_measurement]                              533
+  [qc].[vat]                                                   16
+  [qc].[water_quality_log]                                     23
+  [qc_data].[electrode_status]                             12,221
+  [qc_data].[electrode_status_kind]                             6
+  [qc_data].[qc_board_archive]                                500
+  [qc_data].[qc_board_entry]                                   32
+  [qc_data].[qc_board_stage]                                    8
+  [qc_data].[schema_migrations]                                15
+  [qc_data].[sem_electrode]                                   777
+  [qc_data].[sem_element_reading]                           8,409
+  [qc_data].[sem_generation]                                    2
+  [qc_data].[sem_sample]                                    1,084
+  [qc_data].[sem_sample_image]                              2,778

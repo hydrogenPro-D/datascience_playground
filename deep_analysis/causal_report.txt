@@ -1,0 +1,97 @@
+
+==============================================================================
+COVERAGE
+==============================================================================
+  Gen4.1 cathodes: n=221, bath TU 208, TU dose 193, Co dose 193, vat known 220
+  Gen3.1 cathodes: n=190, bath TU 177, TU dose 190, Co dose 0, vat known 189
+
+==============================================================================
+POSITIVE CONTROL - does dosing show up in the coating at all?
+==============================================================================
+ Cobalt has nothing to do with cracking. If CoSO4 dosing predicts
+ cobalt in the coating, the SEM is reading real deposition chemistry.
+ [Gen4.1]
+  CoSO4 dose (g/electrode) -> coating Co               n= 193  rho=-0.046  p=0.528     
+ [Gen3.1]
+  CoSO4 dose (g/electrode) -> coating Co               n=   0  too few / no spread
+ [both]
+  CoSO4 dose (g/electrode) -> coating Co               n= 193  rho=-0.046  p=0.528     
+
+==============================================================================
+LINK 1 - bath thiourea -> sulfur in the coating
+==============================================================================
+ [Gen4.1]
+  bath ThioUrea titration -> coating S                 n= 208  rho=+0.170  p=0.0139    *
+  TU dose (g/electrode)   -> coating S                 n= 193  too few / no spread
+  bath ThioUrea -> coating S/Ni                        n= 208  rho=+0.186  p=0.00716   **
+ [Gen3.1]
+  bath ThioUrea titration -> coating S                 n= 177  rho=-0.165  p=0.0282    *
+  TU dose (g/electrode)   -> coating S                 n= 190  too few / no spread
+  bath ThioUrea -> coating S/Ni                        n= 177  rho=-0.128  p=0.0905    
+ [both]
+  bath ThioUrea titration -> coating S                 n= 385  rho=+0.152  p=0.00284   **
+  TU dose (g/electrode)   -> coating S                 n= 383  rho=-0.484  p=6.42e-24  ***
+  bath ThioUrea -> coating S/Ni                        n= 385  rho=-0.037  p=0.466     
+
+==============================================================================
+LINK 2 - sulfur in the coating -> crack severity
+==============================================================================
+ [Gen4.1]
+  coating S/Ni -> severity                             n= 221  rho=-0.344  p=1.55e-07  ***
+  coating S    -> severity                             n= 221  rho=+0.083  p=0.217     
+  coating Ni   -> severity                             n= 221  rho=+0.288  p=1.4e-05   ***
+ [Gen3.1]
+  coating S/Ni -> severity                             n= 190  rho=-0.212  p=0.00332   **
+  coating S    -> severity                             n= 190  rho=-0.169  p=0.0199    *
+  coating Ni   -> severity                             n= 190  rho=+0.006  p=0.931     
+
+==============================================================================
+LINK 3 - bath thiourea -> crack severity (the actionable one)
+==============================================================================
+ [Gen4.1]
+  bath ThioUrea -> severity                            n= 208  rho=+0.045  p=0.517     
+  TU dose       -> severity                            n= 193  too few / no spread
+  bath pH       -> severity                            n= 206  rho=-0.069  p=0.323     
+ [Gen3.1]
+  bath ThioUrea -> severity                            n= 177  rho=-0.039  p=0.607     
+  TU dose       -> severity                            n= 190  too few / no spread
+  bath pH       -> severity                            n= 163  rho=+0.087  p=0.268     
+
+==============================================================================
+ARTEFACT CHECK - would cracks alone explain the composition shift?
+==============================================================================
+ If cracks expose substrate, the reading should get MORE variable
+ across points as severity rises, and surface C/O should fall.
+ [Gen4.1]
+  spread of Ni across points -> severity               n= 221  rho=+0.046  p=0.497     
+  spread of S across points -> severity                n= 221  rho=+0.093  p=0.168     
+  carbon (surface layer) -> severity                   n= 221  rho=+0.164  p=0.0147    *
+  oxygen (surface layer) -> severity                   n=  98  rho=-0.243  p=0.016     *
+  nitrogen (from thiourea CH4N2S) -> severity          n= 221  rho=-0.189  p=0.00475   **
+ [Gen3.1]
+  spread of Ni across points -> severity               n= 189  rho=+0.142  p=0.0519    
+  spread of S across points -> severity                n= 189  rho=+0.061  p=0.405     
+  carbon (surface layer) -> severity                   n=   0  too few / no spread
+  oxygen (surface layer) -> severity                   n=   0  too few / no spread
+  nitrogen (from thiourea CH4N2S) -> severity          n=   0  too few / no spread
+
+==============================================================================
+DOSE-RESPONSE - severity across S/Ni quintiles (Gen4.1 cathodes)
+==============================================================================
+               n  mean_severity  pct_cracked  pct_sound_or_micro
+bin                                                             
+lowest S/Ni   45           3.04        48.89               40.00
+2             44           3.25        45.45               20.45
+3             44           2.61        25.00               54.55
+4             44           2.61        13.64               47.73
+highest S/Ni  44           2.27         6.82               70.45
+
+==============================================================================
+CONTROLLING FOR COATING THICKNESS
+==============================================================================
+ Gen4.1 plates ~4.4x the charge of Gen3.1, and a thicker deposit
+ carries more internal stress. Does S/Ni still matter within it?
+ n = 220
+  plating charge -> severity                           n= 220  rho=-0.001  p=0.991     
+  plating charge -> S/Ni                               n= 220  rho=+0.108  p=0.112     
+  S/Ni -> severity, charge partialled out              n= 220  rho=-0.304  p=4.239e-06

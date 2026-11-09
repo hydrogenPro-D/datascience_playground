@@ -1,0 +1,907 @@
+electrode,generation,electrode_type,measured_on,note,quality,category
+B10006,Gen3.1,ANODE,,Fine,5,fine
+B10030,Gen3.1,ANODE,,Fine,5,fine
+B10108,Gen3.1,ANODE,,Fine,5,fine
+B10153,Gen3.1,ANODE,,Fine,5,fine
+B10195,Gen3.1,ANODE,,Fine,5,fine
+B10257,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B10317,Gen3.1,ANODE,,Fine,5,fine
+B10380,Gen3.1,ANODE,,Fine,5,fine
+B10398,Gen3.1,ANODE,,Fine,5,fine
+B10477,Gen3.1,ANODE,,Few cracks,2,small cracks
+B10649,Gen3.1,ANODE,,Fine,5,fine
+B10750,Gen3.1,ANODE,,Few microcracks,3,microcracks
+B10755,Gen3.1,ANODE,,Fine,5,fine
+B10782,Gen3.1,ANODE,,Fine,5,fine
+B10822,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B10858,Gen3.1,ANODE,,Fine,5,fine
+B10934,Gen3.1,ANODE,,Fine,5,fine
+B10970,Gen3.1,ANODE,,Fine,5,fine
+B11006,Gen3.1,ANODE,,Fine,5,fine
+B11089,Gen3.1,ANODE,,Fine,5,fine
+B11153,Gen3.1,ANODE,,Fine,5,fine
+B11187,Gen3.1,ANODE,,Fine,5,fine
+B11223,Gen3.1,ANODE,,Few microcracks,3,microcracks
+B11257,Gen3.1,ANODE,,Fine,5,fine
+B11446,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B11502,Gen3.1,ANODE,,Fine,5,fine
+B11549,Gen3.1,ANODE,,Few microcracks,3,microcracks
+B11550,Gen3.1,ANODE,,microcracks,3,microcracks
+B11632,Gen3.1,ANODE,,Few microcracks,3,microcracks
+B11727,Gen3.1,ANODE,,Fine but very high ratio,5,fine
+B11774,Gen3.1,ANODE,,Fine,5,fine
+B11833,Gen3.1,ANODE,,few microcracks,3,microcracks
+B11876,Gen3.1,ANODE,,Fine,5,fine
+B11933,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B11990,Gen3.1,ANODE,,Fine,5,fine
+B12099,Gen3.1,ANODE,,Fine,5,fine
+B12174,Gen3.1,ANODE,,Fine,5,fine
+B12265,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B12293,Gen3.1,ANODE,,Fine,5,fine
+B12345,Gen3.1,ANODE,,Fine,5,fine
+B12400,Gen3.1,ANODE,,Fine,5,fine
+B12427,Gen3.1,ANODE,,Less cracked (not all over) - did SEM on the rest of coupons and they're microcracked/fine,2,small cracks
+B12498,Gen3.1,ANODE,,Few microcracks,3,microcracks
+B12619,Gen3.1,ANODE,,Fine,5,fine
+B12686,Gen3.1,ANODE,,Fine,5,fine
+B12754,Gen3.1,ANODE,,Fine,5,fine
+B12779,Gen3.1,ANODE,,Fine,5,fine
+B12883,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B1293,Gen3.1,ANODE,,,,
+B12963,Gen3.1,ANODE,,Fine,5,fine
+B1298,Gen3.1,ANODE,,,,
+B13049,Gen3.1,ANODE,,Fine,5,fine
+B13081,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B13195,Gen3.1,ANODE,,Fine,5,fine
+B1324,Gen3.1,ANODE,,,,
+B13251,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B13277,Gen3.1,ANODE,,Few microcracks,3,microcracks
+B1328,Gen3.1,ANODE,,,,
+B13305,Gen3.1,ANODE,,Fine,5,fine
+B1334,Gen3.1,ANODE,,,,
+B1342,Gen3.1,ANODE,,,,
+B13434,Gen3.1,ANODE,,Microcracks and few small cracks,2,small cracks
+B13504,Gen3.1,ANODE,,Few microcracks,3,microcracks
+B13752,Gen3.1,ANODE,,Fine,5,fine
+B1377,Gen3.1,ANODE,,,,
+B13786,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B13835,Gen3.1,ANODE,,Fine,5,fine
+B13851,Gen3.1,ANODE,,microcracks,3,microcracks
+B13853,Gen3.1,ANODE,,microcracks,3,microcracks
+B1397,Gen3.1,ANODE,,,,
+B1414,Gen3.1,ANODE,,,,
+B1423,Gen3.1,ANODE,,,,
+B1436,Gen3.1,ANODE,,,,
+B1455,Gen3.1,ANODE,,,,
+B1461,Gen3.1,ANODE,,,,
+B1474,Gen3.1,ANODE,,,,
+B1484,Gen3.1,ANODE,,,,
+B1532,Gen3.1,ANODE,,,,
+B1588,Gen3.1,ANODE,,,,
+B1616,Gen3.1,ANODE,,,,
+B1636,Gen3.1,ANODE,,,,
+B1644,Gen3.1,ANODE,,,,
+B1666,Gen3.1,ANODE,,,,
+B1683,Gen3.1,ANODE,,,,
+B1692,Gen3.1,ANODE,,,,
+B1711,Gen3.1,ANODE,,,,
+B1732,Gen3.1,ANODE,,,,
+B1761,Gen3.1,ANODE,,,,
+B1990,Gen3.1,ANODE,,,,
+B2064,Gen3.1,ANODE,,,,
+B2077,Gen3.1,ANODE,,,,
+B2092,Gen3.1,ANODE,,,,
+B2110,Gen3.1,ANODE,,,,
+B2125,Gen3.1,ANODE,,,,
+B2141,Gen3.1,ANODE,,,,
+B2157,Gen3.1,ANODE,,,,
+B2177,Gen3.1,ANODE,,,,
+B2209,Gen3.1,ANODE,,,,
+B2227,Gen3.1,ANODE,,,,
+B2265,Gen3.1,ANODE,,,,
+B2278,Gen3.1,ANODE,,,,
+B2497,Gen3.1,ANODE,,,,
+B2518,Gen3.1,ANODE,,,,
+B2528,Gen3.1,ANODE,,,,
+B2542,Gen3.1,ANODE,,,,
+B2606,Gen3.1,ANODE,,,,
+B2628,Gen3.1,ANODE,,,,
+B2644,Gen3.1,ANODE,,,,
+B2664,Gen3.1,ANODE,,,,
+B3014,Gen3.1,ANODE,,,,
+B3039,Gen3.1,ANODE,,,,
+B3059,Gen3.1,ANODE,,,,
+B3072,Gen3.1,ANODE,,,,
+B3080,Gen3.1,ANODE,,,,
+B3135,Gen3.1,ANODE,,,,
+B3234,Gen3.1,ANODE,,,,
+B3259,Gen3.1,ANODE,,,,
+B3282,Gen3.1,ANODE,,,,
+B3313,Gen3.1,ANODE,,,,
+B3367,Gen3.1,ANODE,,,,
+B3424,Gen3.1,ANODE,,,,
+B3428,Gen3.1,ANODE,,,,
+B3459,Gen3.1,ANODE,,,,
+B3475,Gen3.1,ANODE,,,,
+B3525,Gen3.1,ANODE,,,,
+B3547,Gen3.1,ANODE,,,,
+B3578,Gen3.1,ANODE,,,,
+B3607,Gen3.1,ANODE,,,,
+B3613,Gen3.1,ANODE,,,,
+B3673,Gen3.1,ANODE,,,,
+B3740,Gen3.1,ANODE,,,,
+B3810,Gen3.1,ANODE,,,,
+B3834,Gen3.1,ANODE,,,,
+B3888,Gen3.1,ANODE,,,,
+B3908,Gen3.1,ANODE,,,,
+B394,Gen3.1,ANODE,,,,
+B3954,Gen3.1,ANODE,,,,
+B3990,Gen3.1,ANODE,,,,
+B4020,Gen3.1,ANODE,,,,
+B4038,Gen3.1,ANODE,,,,
+B4118,Gen3.1,ANODE,,,,
+B4129,Gen3.1,ANODE,,,,
+B4140,Gen3.1,ANODE,,,,
+B4141,Gen3.1,ANODE,,,,
+B4147,Gen3.1,ANODE,,,,
+B4148,Gen3.1,ANODE,,,,
+B4149,Gen3.1,ANODE,,0.09385018171583047,,
+B4253,Gen3.1,ANODE,,Cracked,1,cracked
+B4259,Gen3.1,ANODE,,Some visible cracks (site 3),1,cracked
+B4265,Gen3.1,ANODE,,Cracked,1,cracked
+B4474,Gen3.1,ANODE,,Some cracks on spot 3 other microcraks not visible at 100x in the othe spots,1,cracked
+B4508,Gen3.1,ANODE,,"coating undamaged, some crack-like marks on it",5,fine
+B4525,Gen3.1,ANODE,,"coating undamaged, some crack-like marks on it",5,fine
+B456,Gen3.1,ANODE,,,,
+B4608,Gen3.1,ANODE,,Micto cracks,3,microcracks
+B463,Gen3.1,ANODE,,,,
+B4656,Gen3.1,ANODE,,No cracks,5,fine
+B468,Gen3.1,ANODE,,,,
+B4680,Gen3.1,ANODE,,No cracks,5,fine
+B4810,Gen3.1,ANODE,,"No cracks, weird dendrites",5,fine
+B4872,Gen3.1,ANODE,,"No cracks, no dendrites",5,fine
+B4970,Gen3.1,ANODE,,Fine,5,fine
+B4990,Gen3.1,ANODE,,"Few small cracks, dirty sample",2,small cracks
+B5000,Gen3.1,ANODE,,Fine,5,fine
+B5006,Gen3.1,ANODE,,Fine Short fibers are present,5,fine
+B5025,Gen3.1,ANODE,,"small cracks, and microcracking",2,small cracks
+B5066,Gen3.1,ANODE,,Very few small cracks and micro cracks,4,very few microcracks
+B5146,Gen3.1,ANODE,,Few micro cracks,3,microcracks
+B5168,Gen3.1,ANODE,,Fine,5,fine
+B5174,Gen3.1,ANODE,,Cracked,1,cracked
+B5180,Gen3.1,ANODE,,Cracked,1,cracked
+B5213,Gen3.1,ANODE,,Fine,5,fine
+B5312,Gen3.1,ANODE,,Cracked,1,cracked
+B5320,Gen3.1,ANODE,,"Cracked, new FB",1,cracked
+B5366,Gen3.1,ANODE,,Cracked,1,cracked
+B54,Gen3.1,ANODE,,Fine,5,fine
+B5431,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B5446,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B5556,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B5573,Gen3.1,ANODE,,Cracked,1,cracked
+B5582,Gen3.1,ANODE,,Fine,5,fine
+B5593,Gen3.1,ANODE,,Cracked,1,cracked
+B5615,Gen3.1,ANODE,,Fine,5,fine
+B5692,Gen3.1,ANODE,,"Less cracked, but more cracked than B4148",2,small cracks
+B5702,Gen3.1,ANODE,,"Less cracked, but more cracked than B4149",2,small cracks
+B572,Gen3.1,ANODE,,,,
+B5724,Gen3.1,ANODE,,Fine,5,fine
+B5742,Gen3.1,ANODE,,Micro cracks,3,microcracks
+B578,Gen3.1,ANODE,,0.5276924615662871,,
+B5816,Gen3.1,ANODE,,"Cracked, coating peeling off",1,cracked
+B5832,Gen3.1,ANODE,,Cracked,1,cracked
+B5892,Gen3.1,ANODE,,"Fine, ratio low",5,fine
+B5983,Gen3.1,ANODE,,Fine,5,fine
+B6021,Gen3.1,ANODE,,Some cracks,1,cracked
+B6036,Gen3.1,ANODE,,Fine,5,fine
+B6057,Gen3.1,ANODE,,Small cracks,2,small cracks
+B6092,Gen3.1,ANODE,,Small cracks,2,small cracks
+B6118,Gen3.1,ANODE,,Few small cracks,2,small cracks
+B6153,Gen3.1,ANODE,,Fine,5,fine
+B618,Gen3.1,ANODE,,,,
+B6212,Gen3.1,ANODE,,Fine,5,fine
+B6227,Gen3.1,ANODE,,Fine,5,fine
+B6256,Gen3.1,ANODE,,Fine,5,fine
+B6338,Gen3.1,ANODE,,Micro cracks,3,microcracks
+B6405,Gen3.1,ANODE,,Few cracks,2,small cracks
+B6475,Gen3.1,ANODE,,Cracked,1,cracked
+B6490,Gen3.1,ANODE,,Cracked,1,cracked
+B655,Gen3.1,ANODE,,,,
+B6612,Gen3.1,ANODE,,Fine but not smooth coating,5,fine
+B6630,Gen3.1,ANODE,,Less cracked,2,small cracks
+B669,Gen3.1,ANODE,,,,
+B6703,Gen3.1,ANODE,,Fine,5,fine
+B6774,Gen3.1,ANODE,,slightly cracked,2,small cracks
+B687,Gen3.1,ANODE,,,,
+B6926,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B6937,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B6969,Gen3.1,ANODE,,Fine,5,fine
+B7003,Gen3.1,ANODE,,Fine,5,fine
+B7048,Gen3.1,ANODE,,Fine,5,fine
+B7101,Gen3.1,ANODE,,Fine,5,fine
+B7129,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B7172,Gen3.1,ANODE,,Few micro cracks,3,microcracks
+B7208,Gen3.1,ANODE,,Fine,5,fine
+B7237,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B7259,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B7282,Gen3.1,ANODE,,Few microcracks,3,microcracks
+B7343,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B7365,Gen3.1,ANODE,,"VAT 28, very few microcracks on spot 1",4,very few microcracks
+B7368,Gen3.1,ANODE,,"VAT 29, few microcracks on spot 2",3,microcracks
+B7445,Gen3.1,ANODE,,"extra coupon; it wasn't marked, so sample was cut in a random corner few microcracks",3,microcracks
+B7462,Gen3.1,ANODE,,"VAT 28, very few microcracks on spot 1",4,very few microcracks
+B7518,Gen3.1,ANODE,,very few microcracks,4,very few microcracks
+B7558,Gen3.1,ANODE,,Few Microcracks,3,microcracks
+B7634,Gen3.1,ANODE,,Few microcracks,3,microcracks
+B7641,Gen3.1,ANODE,,Few microcracks,3,microcracks
+B7669,Gen3.1,ANODE,,Less cracked,2,small cracks
+B7860,Gen3.1,ANODE,,Fine,5,fine
+B7888,Gen3.1,ANODE,,Few microcracks,3,microcracks
+B7946,Gen3.1,ANODE,,Fine,5,fine
+B7967,Gen3.1,ANODE,,Fine,5,fine
+B7970,Gen3.1,ANODE,,Fine,5,fine
+B7993,Gen3.1,ANODE,,Fine,5,fine
+B7999,Gen3.1,ANODE,,Fine,5,fine
+B8034,Gen3.1,ANODE,,Fine,5,fine
+B8223,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B8265,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B8292,Gen3.1,ANODE,,Very few microcracks,4,very few microcracks
+B8336,Gen3.1,ANODE,,Fine,5,fine
+B8351,Gen3.1,ANODE,,Cracked,1,cracked
+B8373,Gen3.1,ANODE,,"Very few small cracks, first electrode after adjustment",4,very few microcracks
+B8404,Gen3.1,ANODE,,"Few microcracks, sample seems a bit dirty",3,microcracks
+B8427,Gen3.1,ANODE,,Few microcracks,3,microcracks
+B8460,Gen3.1,ANODE,,Fine,5,fine
+B8477,Gen3.1,ANODE,,Fine,5,fine
+B8505,Gen3.1,ANODE,,Fine,5,fine
+B8528,Gen3.1,ANODE,,Less Cracked,2,small cracks
+B8574,Gen3.1,ANODE,,"Fine, First electrode after chemical adjustment, Vat 30",5,fine
+B8590,Gen3.1,ANODE,,Fine,5,fine
+B10066,Gen3.1,CATHODE,,Fine,5,fine
+B1008,Gen3.1,CATHODE,,,,
+B10094,Gen3.1,CATHODE,,Fine,5,fine
+B10129,Gen3.1,CATHODE,,Fine,5,fine
+B10224,Gen3.1,CATHODE,,Few microcracks,3,microcracks
+B1025,Gen3.1,CATHODE,,,,
+B10280,Gen3.1,CATHODE,,Very few microcracks,4,very few microcracks
+B10338,Gen3.1,CATHODE,,Fine,5,fine
+B10362,Gen3.1,CATHODE,,Few microcracks,3,microcracks
+B1039,Gen3.1,CATHODE,,,,
+B10430,Gen3.1,CATHODE,,Fine,5,fine
+B10449,Gen3.1,CATHODE,,Fine,5,fine
+B1046,Gen3.1,CATHODE,,,,
+B10504,Gen3.1,CATHODE,,Fine,5,fine
+B1052,Gen3.1,CATHODE,,,,
+B10532,Gen3.1,CATHODE,,Fine,5,fine
+B1058,Gen3.1,CATHODE,,,,
+B10582,Gen3.1,CATHODE,,Few microcracks,3,microcracks
+B10609,Gen3.1,CATHODE,,Few microcracks,3,microcracks
+B1068,Gen3.1,CATHODE,,,,
+B10684,Gen3.1,CATHODE,,Few cracks,2,small cracks
+B10726,Gen3.1,CATHODE,,Fine,5,fine
+B10760,Gen3.1,CATHODE,,Few microcracks,3,microcracks
+B10790,Gen3.1,CATHODE,,Fine,5,fine
+B1083,Gen3.1,CATHODE,,,,
+B10889,Gen3.1,CATHODE,,Fine,5,fine
+B1091,Gen3.1,CATHODE,,,,
+B1104,Gen3.1,CATHODE,,,,
+B11108,Gen3.1,CATHODE,,Fine,5,fine
+B1115,Gen3.1,CATHODE,,,,
+B11206,Gen3.1,CATHODE,,Fine,5,fine
+B1124,Gen3.1,CATHODE,,,,
+B11251,Gen3.1,CATHODE,,Fine,5,fine
+B11308,Gen3.1,CATHODE,,Fine,5,fine
+B1133,Gen3.1,CATHODE,,,,
+B11353,Gen3.1,CATHODE,,Very few microcracks,4,very few microcracks
+B11395,Gen3.1,CATHODE,,Very few microcracks,4,very few microcracks
+B11430,Gen3.1,CATHODE,,Fine,5,fine
+B11434,Gen3.1,CATHODE,,Fine,5,fine
+B1144,Gen3.1,CATHODE,,,,
+B11491,Gen3.1,CATHODE,,Fine,5,fine
+B11537,Gen3.1,CATHODE,,Fine,5,fine
+B11538,Gen3.1,CATHODE,,"Fine, but high ratio",5,fine
+B11541,Gen3.1,CATHODE,,Cracked,1,cracked
+B11544,Gen3.1,CATHODE,,Cracked,1,cracked
+B11547,Gen3.1,CATHODE,,Very few microcracks,4,very few microcracks
+B11582,Gen3.1,CATHODE,,Fine,5,fine
+B11622,Gen3.1,CATHODE,,Fine,5,fine
+B11660,Gen3.1,CATHODE,,Fine,5,fine
+B1175,Gen3.1,CATHODE,,,,
+B11848,Gen3.1,CATHODE,,Very few microcracks,4,very few microcracks
+B11851,Gen3.1,CATHODE,,Cracked,1,cracked
+B11854,Gen3.1,CATHODE,,Cracked,1,cracked
+B11857,Gen3.1,CATHODE,,Less cracked,2,small cracks
+B11908,Gen3.1,CATHODE,,Fine,5,fine
+B12015,Gen3.1,CATHODE,,Fine,5,fine
+B12048,Gen3.1,CATHODE,,Fine,5,fine
+B12074,Gen3.1,CATHODE,,Fine,5,fine
+B12124,Gen3.1,CATHODE,,Fine,5,fine
+B12149,Gen3.1,CATHODE,,Fine,5,fine
+B12231,Gen3.1,CATHODE,,Microcracked,3,microcracks
+B1229,Gen3.1,CATHODE,,,,
+B12318,Gen3.1,CATHODE,,Fine,5,fine
+B1237,Gen3.1,CATHODE,,,,
+B12375,Gen3.1,CATHODE,,Fine,5,fine
+B12452,Gen3.1,CATHODE,,Fine,5,fine
+B12526,Gen3.1,CATHODE,,Some local microcracks,3,microcracks
+B12548,Gen3.1,CATHODE,,Fine,5,fine
+B12583,Gen3.1,CATHODE,,Fine,5,fine
+B1262,Gen3.1,CATHODE,,,,
+B12739,Gen3.1,CATHODE,,Fine,5,fine
+B12806,Gen3.1,CATHODE,,Fine,5,fine
+B12848,Gen3.1,CATHODE,,Fine,5,fine
+B12910,Gen3.1,CATHODE,,Very few local small cracks,4,very few microcracks
+B12935,Gen3.1,CATHODE,,Very few microcracks,4,very few microcracks
+B13025,Gen3.1,CATHODE,,Very few microcracks,4,very few microcracks
+B1307,Gen3.1,CATHODE,,,,
+B13123,Gen3.1,CATHODE,,Microcracks and few small cracks,2,small cracks
+B13227,Gen3.1,CATHODE,,Microcracks,3,microcracks
+B13330,Gen3.1,CATHODE,,Fine,5,fine
+B13370,Gen3.1,CATHODE,,Fine,5,fine
+B13396,Gen3.1,CATHODE,,Fine,5,fine
+B13608,Gen3.1,CATHODE,,Fine,5,fine
+B13625,Gen3.1,CATHODE,,Very few microcracks,4,very few microcracks
+B13698,Gen3.1,CATHODE,,Microcracks,3,microcracks
+B13704,Gen3.1,CATHODE,,Fine,5,fine
+B13707,Gen3.1,CATHODE,,Less cracked,2,small cracks
+B13710,Gen3.1,CATHODE,,Fine,5,fine
+B13712,Gen3.1,CATHODE,,Microcracks,3,microcracks
+B1496,Gen3.1,CATHODE,,,,
+B1780,Gen3.1,CATHODE,,,,
+B1870,Gen3.1,CATHODE,,,,
+B1893,Gen3.1,CATHODE,,,,
+B1943,Gen3.1,CATHODE,,,,
+B1962,Gen3.1,CATHODE,,,,
+B2011,Gen3.1,CATHODE,,,,
+B2027,Gen3.1,CATHODE,,,,
+B2047,Gen3.1,CATHODE,,,,
+B2204,Gen3.1,CATHODE,,,,
+B2302,Gen3.1,CATHODE,,,,
+B2386,Gen3.1,CATHODE,,,,
+B2405,Gen3.1,CATHODE,,,,
+B2421,Gen3.1,CATHODE,,,,
+B2441,Gen3.1,CATHODE,,,,
+B2478,Gen3.1,CATHODE,,,,
+B2674,Gen3.1,CATHODE,,,,
+B2692,Gen3.1,CATHODE,,,,
+B2711,Gen3.1,CATHODE,,,,
+B2733,Gen3.1,CATHODE,,,,
+B2768,Gen3.1,CATHODE,,,,
+B2783,Gen3.1,CATHODE,,,,
+B2829,Gen3.1,CATHODE,,,,
+B2880,Gen3.1,CATHODE,,,,
+B2900,Gen3.1,CATHODE,,,,
+B2948,Gen3.1,CATHODE,,,,
+B2963,Gen3.1,CATHODE,,,,
+B2975,Gen3.1,CATHODE,,,,
+B3095,Gen3.1,CATHODE,,,,
+B3160,Gen3.1,CATHODE,,,,
+B3233,Gen3.1,CATHODE,,,,
+B3248,Gen3.1,CATHODE,,,,
+B3255,Gen3.1,CATHODE,,,,
+B3322,Gen3.1,CATHODE,,,,
+B3376,Gen3.1,CATHODE,,,,
+B3474,Gen3.1,CATHODE,,,,
+B3524,Gen3.1,CATHODE,,,,
+B3577,Gen3.1,CATHODE,,,,
+B3591,Gen3.1,CATHODE,,,,
+B36,Gen3.1,CATHODE,,Fine,5,fine
+B3601,Gen3.1,CATHODE,,,,
+B3722,Gen3.1,CATHODE,,,,
+B3753,Gen3.1,CATHODE,,,,
+B3771,Gen3.1,CATHODE,,,,
+B3796,Gen3.1,CATHODE,,,,
+B3860,Gen3.1,CATHODE,,,,
+B3900,Gen3.1,CATHODE,,,,
+B3942,Gen3.1,CATHODE,,,,
+B3970,Gen3.1,CATHODE,,,,
+B4008,Gen3.1,CATHODE,,,,
+B4061,Gen3.1,CATHODE,,,,
+B4076,Gen3.1,CATHODE,,,,
+B4089,Gen3.1,CATHODE,,,,
+B4090,Gen3.1,CATHODE,,,,
+B4091,Gen3.1,CATHODE,,,,
+B4181,Gen3.1,CATHODE,,Extra folder Gen3_cutting_crack_test,,
+B4231,Gen3.1,CATHODE,,"Vat 28, No Cracks",5,fine
+B4232,Gen3.1,CATHODE,,Unsure as it was the label was not clear No Cracks,5,fine
+B4233,Gen3.1,CATHODE,,"Vat 30, No Cracks",5,fine
+B4234,Gen3.1,CATHODE,,Vat 29 No Cracks,5,fine
+B4284,Gen3.1,CATHODE,,"Found only one crack on site 3, likely random",3,microcracks
+B4302,Gen3.1,CATHODE,,No cracks,5,fine
+B4319,Gen3.1,CATHODE,,CRACKED,1,cracked
+B4325,Gen3.1,CATHODE,,Cracked,1,cracked
+B4343,Gen3.1,CATHODE,,Cracked,1,cracked
+B4379,Gen3.1,CATHODE,,Craked,1,cracked
+B4388,Gen3.1,CATHODE,,Cracked,1,cracked
+B4396,Gen3.1,CATHODE,,Cracked,1,cracked
+B4420,Gen3.1,CATHODE,,Cracked,1,cracked
+B4445,Gen3.1,CATHODE,,Slightly cracked,2,small cracks
+B4452,Gen3.1,CATHODE,,Some cracks,1,cracked
+B4501,Gen3.1,CATHODE,,No visible cracks at 100x,5,fine
+B4562,Gen3.1,CATHODE,,various small crack marks,2,small cracks
+B4563,Gen3.1,CATHODE,,various small crack marks,2,small cracks
+B4598,Gen3.1,CATHODE,,Slightly cracked,2,small cracks
+B4599,Gen3.1,CATHODE,,Slightly cracked,2,small cracks
+B4708,Gen3.1,CATHODE,,,,
+B4731,Gen3.1,CATHODE,,,,
+B4755,Gen3.1,CATHODE,,Microcracking,3,microcracks
+B4771,Gen3.1,CATHODE,,,,
+B4787,Gen3.1,CATHODE,,Heavy Cracks,1,cracked
+B4889,Gen3.1,CATHODE,,Cracks,1,cracked
+B4918,Gen3.1,CATHODE,,Some small cracks and dirty/dusty sample,2,small cracks
+B4927,Gen3.1,CATHODE,,"Very few cracks, appears dirty",3,microcracks
+B4930,Gen3.1,CATHODE,,Few micro cracks,3,microcracks
+B4946,Gen3.1,CATHODE,,"Very few micro cracks, Vat 28",4,very few microcracks
+B4947,Gen3.1,CATHODE,,"Micro cracks, Vat 30",3,microcracks
+B4948,Gen3.1,CATHODE,,"Small cracks, Vat 29",2,small cracks
+B5049,Gen3.1,CATHODE,,Micro cracks,3,microcracks
+B5069,Gen3.1,CATHODE,,RCP80,,
+B5118,Gen3.1,CATHODE,,Very few barely noticeable micro cracks,4,very few microcracks
+B5202,Gen3.1,CATHODE,,Fine,5,fine
+B5309,Gen3.1,CATHODE,,"Fine, close to production start with new FB and new thick coating",5,fine
+B5326,Gen3.1,CATHODE,,"Brown sample, no cracks",5,fine
+B5345,Gen3.1,CATHODE,,Microcracking,3,microcracks
+B5365,Gen3.1,CATHODE,,Microcracking,3,microcracks
+B5376,Gen3.1,CATHODE,,"Sample look unusual, few micro cracks",3,microcracks
+B5385,Gen3.1,CATHODE,,"Sample look unusual, few micro cracks",3,microcracks
+B5393,Gen3.1,CATHODE,,Small cracks,2,small cracks
+B5417,Gen3.1,CATHODE,,Very few small and micro cracks,4,very few microcracks
+B5429,Gen3.1,CATHODE,,Very few small and micro cracks,4,very few microcracks
+B5499,Gen3.1,CATHODE,,Fine,5,fine
+B5525,Gen3.1,CATHODE,,Very few micro cracks,4,very few microcracks
+B5563,Gen3.1,CATHODE,,Fine,5,fine
+B5590,Gen3.1,CATHODE,,Very few micro cracks,4,very few microcracks
+B5638,Gen3.1,CATHODE,,Few small cracks,2,small cracks
+B5651,Gen3.1,CATHODE,,Small cracks and micro cracks,2,small cracks
+B5671,Gen3.1,CATHODE,,Sopot 1 and 3 show some small cracks. Spot 2 is cracked,1,cracked
+B5764,Gen3.1,CATHODE,,Sample fine,5,fine
+B5790,Gen3.1,CATHODE,,Sample fine,5,fine
+B5801,Gen3.1,CATHODE,,Fine,5,fine
+B5824,Gen3.1,CATHODE,,Small cracks,2,small cracks
+B5852,Gen3.1,CATHODE,,Fine,5,fine
+B5872,Gen3.1,CATHODE,,Sample fine,5,fine
+B5909,Gen3.1,CATHODE,,Sample fine,5,fine
+B5929,Gen3.1,CATHODE,,Sample fine,5,fine
+B5941,Gen3.1,CATHODE,,Fine,5,fine
+B5965,Gen3.1,CATHODE,,Fine,5,fine
+B5996,Gen3.1,CATHODE,,Fine,5,fine
+B6073,Gen3.1,CATHODE,,Fine,5,fine
+B6107,Gen3.1,CATHODE,,Fine,5,fine
+B6137,Gen3.1,CATHODE,,"Somewhat cracked, Note from bag: ,,Electrode had ""tire track"" pattern""",2,small cracks
+B6176,Gen3.1,CATHODE,,Small microcracks,3,microcracks
+B6185,Gen3.1,CATHODE,,less cracked,2,small cracks
+B6195,Gen3.1,CATHODE,,Cracked,1,cracked
+B6207,Gen3.1,CATHODE,,Cracked,1,cracked
+B6233,Gen3.1,CATHODE,,Cracked,1,cracked
+B6245,Gen3.1,CATHODE,,Fine,5,fine
+B6292,Gen3.1,CATHODE,,Fine,5,fine
+B6321,Gen3.1,CATHODE,,Fine,5,fine
+B6356,Gen3.1,CATHODE,,CRACKED,1,cracked
+B6381,Gen3.1,CATHODE,,less cracked,2,small cracks
+B6423,Gen3.1,CATHODE,,Fine,5,fine
+B6443,Gen3.1,CATHODE,,Less Cracked,2,small cracks
+B6498,Gen3.1,CATHODE,,Less cracked,2,small cracks
+B6505,Gen3.1,CATHODE,,Fine,5,fine
+B6517,Gen3.1,CATHODE,,Microcracks,3,microcracks
+B6544,Gen3.1,CATHODE,,Microcracks,3,microcracks
+B6566,Gen3.1,CATHODE,,Microcracks,3,microcracks
+B6574,Gen3.1,CATHODE,,Few microcracks,3,microcracks
+B6670,Gen3.1,CATHODE,,Fine,5,fine
+B6722,Gen3.1,CATHODE,,Fine,5,fine
+B6746,Gen3.1,CATHODE,,Fine,5,fine
+B6778,Gen3.1,CATHODE,,Fine,5,fine
+B6816,Gen3.1,CATHODE,,Fine,5,fine
+B6839,Gen3.1,CATHODE,,Few micro cracks,3,microcracks
+B6854,Gen3.1,CATHODE,,Few micro cracks,3,microcracks
+B6884,Gen3.1,CATHODE,,Very few microcracks,4,very few microcracks
+B6992,Gen3.1,CATHODE,,Fine,5,fine
+B7088,Gen3.1,CATHODE,,Microcracks,3,microcracks
+B7146,Gen3.1,CATHODE,,less cracked and with patches,2,small cracks
+B7197,Gen3.1,CATHODE,,Fine,5,fine
+B7320,Gen3.1,CATHODE,,Fine,5,fine
+B733,Gen3.1,CATHODE,,Measured in weight% -unvalid,,
+B7427,Gen3.1,CATHODE,,Fine,5,fine
+B7476,Gen3.1,CATHODE,,"extra coupon; it wasn't marked, so sample was cut in a random corner a few microcracks",3,microcracks
+B7490,Gen3.1,CATHODE,,less Cracked,2,small cracks
+B7508,Gen3.1,CATHODE,,Fine,5,fine
+B7544,Gen3.1,CATHODE,,Fine,5,fine
+B757,Gen3.1,CATHODE,,0.055353410012392204,,
+B7588,Gen3.1,CATHODE,,Few microcracks,3,microcracks
+B7589,Gen3.1,CATHODE,,Few microcracks,3,microcracks
+B7605,Gen3.1,CATHODE,,less cracked; Lacking 2 EDS - AZtecOne not working,2,small cracks
+B762,Gen3.1,CATHODE,,Measured in weight% -unvalid,,
+B772,Gen3.1,CATHODE,,Measured in weight% -unvalid,,
+B7827,Gen3.1,CATHODE,,Fine,5,fine
+B7831,Gen3.1,CATHODE,,Very few microcracks,4,very few microcracks
+B7902,Gen3.1,CATHODE,,Less cracked,2,small cracks
+B7962,Gen3.1,CATHODE,,Cracked,1,cracked
+B8056,Gen3.1,CATHODE,,Microcracks,3,microcracks
+B8081,Gen3.1,CATHODE,,Very few microcracks,4,very few microcracks
+B8111,Gen3.1,CATHODE,,fine,5,fine
+B8138,Gen3.1,CATHODE,,very few microcracks,4,very few microcracks
+B8194,Gen3.1,CATHODE,,very few microcracks,4,very few microcracks
+B8312,Gen3.1,CATHODE,,"White spots on sample, cracks",1,cracked
+B8345,Gen3.1,CATHODE,,Fine,5,fine
+B8381,Gen3.1,CATHODE,,Very few microcracks,4,very few microcracks
+B8469,Gen3.1,CATHODE,,Cracked,1,cracked
+B8499,Gen3.1,CATHODE,,Very few microcracks,4,very few microcracks
+B8512,Gen3.1,CATHODE,,Cracked,1,cracked
+B8520,Gen3.1,CATHODE,,Cracked,1,cracked
+B8565,Gen3.1,CATHODE,,Few small cracks,2,small cracks
+B8703-RCP81,Gen3.1,CATHODE,,Cracked,1,cracked
+B8704-RCP81,Gen3.1,CATHODE,,Cracked,1,cracked
+B8724,Gen3.1,CATHODE,,Fine,5,fine
+B897,Gen3.1,CATHODE,,,,
+B919,Gen3.1,CATHODE,,,,
+B943,Gen3.1,CATHODE,,Measured in weight% -unvalid,,
+B974,Gen3.1,CATHODE,,Measured in weight% -unvalid,,
+B9754,Gen3.1,CATHODE,,Fine,5,fine
+B9762,Gen3.1,CATHODE,,Fine,5,fine
+B979,Gen3.1,CATHODE,,Measured in weight% -unvalid,,
+B993,Gen3.1,CATHODE,,,,
+B13871,Gen4.1,ANODE,,"Large cracks Batch did not receive full plating recipe, hence, it's no surprise that coat lacks adhesion.",1,cracked
+B13872,Gen4.1,ANODE,,"Large cracks Batch did not receive full plating recipe, hence, it's no surprise that coat lacks adhesion.",1,cracked
+B13873,Gen4.1,ANODE,,"Large cracks Batch did not receive full plating recipe, hence, it's no surprise that coat lacks adhesion.",1,cracked
+B13881,Gen4.1,ANODE,,Rigid and Fine,5,fine
+B13882,Gen4.1,ANODE,,Fine,5,fine
+B13883,Gen4.1,ANODE,,Fine,5,fine
+B13892,Gen4.1,ANODE,,Few Microcracks,3,microcracks
+B13893,Gen4.1,ANODE,,Few Microcracks,3,microcracks
+B13894,Gen4.1,ANODE,,Lumps on the surface (espically close to the edges),,
+B13895,Gen4.1,ANODE,,Cracks,1,cracked
+B13896,Gen4.1,ANODE,,Cracks,1,cracked
+B14127,Gen4.1,ANODE,,"1st run in new vat.28 First dummy electrode plated in 3,3 pH. Cracked",1,cracked
+B14133,Gen4.1,ANODE,,"31/7-2026. 2nd run in new vat 28 Testing dummy electrode plated in 3,5 ph. Few Microcracks",3,microcracks
+B14134,Gen4.1,ANODE,,"3rd run in new vat 28 Testing dummy electrode plated in 3,73 ph. Few Microcracks",3,microcracks
+B13862,Gen4.1,CATHODE,,Less cracked,2,small cracks
+B13863,Gen4.1,CATHODE,,Less cracked,2,small cracks
+B13866,Gen4.1,CATHODE,,Cracked,1,cracked
+B13887,Gen4.1,CATHODE,,Few small cracks,2,small cracks
+B13888,Gen4.1,CATHODE,,Few small cracks,2,small cracks
+B13891,Gen4.1,CATHODE,,Very few micro cracks,4,very few microcracks
+B13900,Gen4.1,CATHODE,,"Cracks, should do post mortem",1,cracked
+B13902,Gen4.1,CATHODE,,,,
+B13913,Gen4.1,CATHODE,,Microcracks (given as anode but tested as a cathode),3,microcracks
+B13917,Gen4.1,CATHODE,,Microcracks,3,microcracks
+B13925,Gen4.1,CATHODE,,Microcracks,3,microcracks
+B13926,Gen4.1,CATHODE,,"White percipitate on sample, few microcracks",3,microcracks
+B13945,Gen4.1,CATHODE,,Few microcracks,3,microcracks
+B13951,Gen4.1,CATHODE,,Microcracks/small cracks,2,small cracks
+B13953,Gen4.1,CATHODE,,Few small cacks,2,small cracks
+B13967,Gen4.1,CATHODE,,Few small cacks,2,small cracks
+B13977,Gen4.1,CATHODE,,Microcracks/small cracks,2,small cracks
+B13980,Gen4.1,CATHODE,,Microcracks/small cracks,2,small cracks
+B13994,Gen4.1,CATHODE,,Microcracks/small cracks,2,small cracks
+B13999,Gen4.1,CATHODE,,Less cracking,2,small cracks
+B14002,Gen4.1,CATHODE,,Microcracks/small cracks,2,small cracks
+B14016,Gen4.1,CATHODE,,Microcracks/small cracks,2,small cracks
+B14020,Gen4.1,CATHODE,,"Small cracks, some salt deposits present",2,small cracks
+B14023,Gen4.1,CATHODE,,Few small/micro-cracks,3,microcracks
+B14033,Gen4.1,CATHODE,,"Microcracks, some salt deposits present",3,microcracks
+B14037,Gen4.1,CATHODE,,"Microcracks, few salt deposits present",3,microcracks
+B14050,Gen4.1,CATHODE,,"Few microcracks, few salt deposits present",3,microcracks
+B14056,Gen4.1,CATHODE,,Small cracks,2,small cracks
+B14063,Gen4.1,CATHODE,,Few small cacks,2,small cracks
+B14071,Gen4.1,CATHODE,,Small cracks,2,small cracks
+B14076,Gen4.1,CATHODE,,Small cracks,2,small cracks
+B14081,Gen4.1,CATHODE,,Small cracks,2,small cracks
+B14087,Gen4.1,CATHODE,,Small cracks,2,small cracks
+B14088,Gen4.1,CATHODE,,Few microcracks,3,microcracks
+B14092,Gen4.1,CATHODE,,Microcracked,3,microcracks
+B14095,Gen4.1,CATHODE,,Cracked,1,cracked
+B14098,Gen4.1,CATHODE,,Cracked,1,cracked
+B14100,Gen4.1,CATHODE,,Cracked,1,cracked
+B14116,Gen4.1,CATHODE,,Cracked,1,cracked
+B14129,Gen4.1,CATHODE,,Cracked,1,cracked
+B14130,Gen4.1,CATHODE,,Cracked,1,cracked
+B14137,Gen4.1,CATHODE,,Cracked,1,cracked
+B14140,Gen4.1,CATHODE,,Cracked,1,cracked
+B14141,Gen4.1,CATHODE,,Cracked,1,cracked
+B14144,Gen4.1,CATHODE,,Cracked,1,cracked
+B14151,Gen4.1,CATHODE,,Cracked,1,cracked
+B14154,Gen4.1,CATHODE,,Cracked,1,cracked
+B14159,Gen4.1,CATHODE,,Mostly microcracks/very little cracks,3,microcracks
+B14165,Gen4.1,CATHODE,,Cracked,1,cracked
+B14168,Gen4.1,CATHODE,,Cracked,1,cracked
+B14172,Gen4.1,CATHODE,,Cracked,1,cracked
+B14174,Gen4.1,CATHODE,,"Small cracks/microcracks (kind of on the edge, but a little worse than B14159)",2,small cracks
+B14175,Gen4.1,CATHODE,,Cracked,1,cracked
+B14184,Gen4.1,CATHODE,,Few small/micro cracks,3,microcracks
+B14192,Gen4.1,CATHODE,,small cracks,2,small cracks
+B14200,Gen4.1,CATHODE,,Less cracked,2,small cracks
+B14202,Gen4.1,CATHODE,,Microcracked,3,microcracks
+B14206,Gen4.1,CATHODE,,Microcracked,3,microcracks
+B14209,Gen4.1,CATHODE,,Mostly microcracks/very little cracks,3,microcracks
+B14218,Gen4.1,CATHODE,,Microcracked,3,microcracks
+B14225,Gen4.1,CATHODE,,Few microcracks,3,microcracks
+B14229,Gen4.1,CATHODE,,Very few microcracks,4,very few microcracks
+B14234,Gen4.1,CATHODE,,Cracked,1,cracked
+B14237,Gen4.1,CATHODE,,Cracked,1,cracked
+B14240,Gen4.1,CATHODE,,Microcracks,3,microcracks
+B14243,Gen4.1,CATHODE,,Few microcracks,3,microcracks
+B14252,Gen4.1,CATHODE,,Microcracked,3,microcracks
+B14266,Gen4.1,CATHODE,,Few microcracks,3,microcracks
+B14268,Gen4.1,CATHODE,,Fine,5,fine
+B14275,Gen4.1,CATHODE,,Microcracks,3,microcracks
+B14280,Gen4.1,CATHODE,,Microcracks,3,microcracks
+B14293,Gen4.1,CATHODE,,Small cracks visible at higher magnifications,2,small cracks
+B14301,Gen4.1,CATHODE,,Few small/micro cracks,3,microcracks
+B14312,Gen4.1,CATHODE,,Few microcracks,3,microcracks
+B14318,Gen4.1,CATHODE,,Few small/micro cracks,3,microcracks
+B14325,Gen4.1,CATHODE,,Microcracks and small clumps of carbon,3,microcracks
+B14327,Gen4.1,CATHODE,,Few microcracks,3,microcracks
+B14333,Gen4.1,CATHODE,,Few microcracks,3,microcracks
+B14342,Gen4.1,CATHODE,,Few Microcracks,3,microcracks
+B14347,Gen4.1,CATHODE,,Microcracks,3,microcracks
+B14352,Gen4.1,CATHODE,,Cracked,1,cracked
+B14355,Gen4.1,CATHODE,,Microcracks,3,microcracks
+B14358,Gen4.1,CATHODE,,Cracked,1,cracked
+B14361,Gen4.1,CATHODE,,Less cracked,2,small cracks
+B14365,Gen4.1,CATHODE,,Fine,5,fine
+B14369,Gen4.1,CATHODE,,Microcracks,3,microcracks
+B14375,Gen4.1,CATHODE,,Few microcracks,3,microcracks
+B14378,Gen4.1,CATHODE,,Microcracks,3,microcracks
+B14383,Gen4.1,CATHODE,,Less cracked,2,small cracks
+B14386,Gen4.1,CATHODE,,Less cracked,2,small cracks
+B14396,Gen4.1,CATHODE,,Less cracked,2,small cracks
+B14404,Gen4.1,CATHODE,,Very few microcracks,4,very few microcracks
+B14414,Gen4.1,CATHODE,,few microcracks,3,microcracks
+B14418,Gen4.1,CATHODE,,few microcracks,3,microcracks
+B14421,Gen4.1,CATHODE,,Cracked,1,cracked
+B14425,Gen4.1,CATHODE,,microcracks,3,microcracks
+B14431,Gen4.1,CATHODE,,microcracks 9th electrode - Vat 30,3,microcracks
+B14439,Gen4.1,CATHODE,,microcracks,3,microcracks
+B14440,Gen4.1,CATHODE,,microcracks,3,microcracks
+B14449,Gen4.1,CATHODE,,Few microcracks Vat 30,3,microcracks
+B14450,Gen4.1,CATHODE,,Few microcracks Vat 28,3,microcracks
+B14463,Gen4.1,CATHODE,,Few small cracks Vat 30,2,small cracks
+B14474,Gen4.1,CATHODE,,small cracks,2,small cracks
+B14475,Gen4.1,CATHODE,,microcracks,3,microcracks
+B14488,Gen4.1,CATHODE,,Microcracks,3,microcracks
+B14499,Gen4.1,CATHODE,,Less cracked Vat 28,2,small cracks
+B14500,Gen4.1,CATHODE,,Less cracked Vat 30,2,small cracks
+B14513,Gen4.1,CATHODE,,Few small/micro cracks,3,microcracks
+B14519,Gen4.1,CATHODE,,Microcracks,3,microcracks
+B14524,Gen4.1,CATHODE,,less cracked Vat 30,2,small cracks
+B14525,Gen4.1,CATHODE,,Cracked Vat 28,1,cracked
+B14531,Gen4.1,CATHODE,,Less cracked,2,small cracks
+B14537,Gen4.1,CATHODE,,Few small/micro cracks Vat 30,3,microcracks
+B14542,Gen4.1,CATHODE,,Cracked,1,cracked
+B14548,Gen4.1,CATHODE,,Cracked Vat 30,1,cracked
+B14551,Gen4.1,CATHODE,,Few small/micro cracks Vat 28,3,microcracks
+B14557,Gen4.1,CATHODE,,Microcracked,3,microcracks
+B14560,Gen4.1,CATHODE,,Cracked Vat 30,1,cracked
+B14566,Gen4.1,CATHODE,,Cracked Vat 30,1,cracked
+B14572,Gen4.1,CATHODE,,Small cracks Vat 30,2,small cracks
+B14575,Gen4.1,CATHODE,,Few microcacks Vat 28,3,microcracks
+B14584,Gen4.1,CATHODE,,Very few small cracks Vat 30,4,very few microcracks
+B14596,Gen4.1,CATHODE,,Microcracks,3,microcracks
+B14599,Gen4.1,CATHODE,,Microcracks Vat 28,3,microcracks
+B14608,Gen4.1,CATHODE,,Microcracks Vat 30,3,microcracks
+B14617,Gen4.1,CATHODE,2026-08-26,Microcracked,3,microcracks
+B14620,Gen4.1,CATHODE,2026-08-26,Less cracked,2,small cracks
+B14623,Gen4.1,CATHODE,2026-08-26,Cracked,1,cracked
+B14626,Gen4.1,CATHODE,2026-08-26,Cracked,1,cracked
+B14631,Gen4.1,CATHODE,2026-08-26,Less cracked,2,small cracks
+B14633,Gen4.1,CATHODE,2026-08-26,Cracked,1,cracked
+B14634,Gen4.1,CATHODE,2026-08-26,Cracked,1,cracked
+B14645,Gen4.1,CATHODE,2026-08-26,Less cracked,2,small cracks
+B14655,Gen4.1,CATHODE,2026-08-27,Less Cracked,2,small cracks
+B14659,Gen4.1,CATHODE,2026-08-27,Cracked,1,cracked
+B14662,Gen4.1,CATHODE,2026-08-27,Cracked,1,cracked
+B14668,Gen4.1,CATHODE,2026-08-28,Cracked,1,cracked
+B14674,Gen4.1,CATHODE,2026-08-28,Less Cracked,2,small cracks
+B14683,Gen4.1,CATHODE,2026-08-28,Few microcracks,3,microcracks
+B14684,Gen4.1,CATHODE,2026-08-28,Few microcracks,3,microcracks
+B14690,Gen4.1,CATHODE,2026-08-28,Less cracked,2,small cracks
+B14691,Gen4.1,CATHODE,2026-08-28,microcracks,3,microcracks
+B14715,Gen4.1,CATHODE,2026-08-29,Less cracked,2,small cracks
+B14716,Gen4.1,CATHODE,2026-08-29,Microcracked,3,microcracks
+B14721,Gen4.1,CATHODE,2026-08-30,Cracked,1,cracked
+B14727,Gen4.1,CATHODE,2026-08-30,Cracked,1,cracked
+B14733,Gen4.1,CATHODE,2026-08-30,Cracked,1,cracked
+B14744,Gen4.1,CATHODE,2026-08-30,,,
+B14745,Gen4.1,CATHODE,2026-08-30,Few microcracks,3,microcracks
+B14759,Gen4.1,CATHODE,2026-08-31,Cracked,1,cracked
+B14761,Gen4.1,CATHODE,2026-08-31,Very few microcracks,4,very few microcracks
+B14770,Gen4.1,CATHODE,2026-08-31,Cracked,1,cracked
+B14771,Gen4.1,CATHODE,2026-08-31,Cracked,1,cracked
+B14778,Gen4.1,CATHODE,2026-09-03,Few microcracks,3,microcracks
+B14779,Gen4.1,CATHODE,2026-08-31,Cracked,1,cracked
+B14780,Gen4.1,CATHODE,2026-08-31,Few small cracks,2,small cracks
+B14786,Gen4.1,CATHODE,2026-09-01,Cracked,1,cracked
+B14792,Gen4.1,CATHODE,2026-09-01,Few microcracks,3,microcracks
+B14806,Gen4.1,CATHODE,2026-09-01,Few microcracks,3,microcracks
+B14807,Gen4.1,CATHODE,2026-09-01,Few microcracks,3,microcracks
+B14808,Gen4.1,CATHODE,2026-09-01,Few microcracks,3,microcracks
+B14824,Gen4.1,CATHODE,2026-09-03,Microcracked,3,microcracks
+B14837,Gen4.1,CATHODE,2026-09-02,Microcracked,3,microcracks
+B14838,Gen4.1,CATHODE,2026-09-02,Few microcracks,3,microcracks
+B14839,Gen4.1,CATHODE,2026-09-02,Microcracked,3,microcracks
+B14855,Gen4.1,CATHODE,2026-09-03,"Microcracked, Vat 29",3,microcracks
+B14856,Gen4.1,CATHODE,2026-09-03,"Microcracked, Vat 30",3,microcracks
+B14857,Gen4.1,CATHODE,2026-09-03,Microcracked,3,microcracks
+B14878,Gen4.1,CATHODE,2026-09-03,"Less Cracked, Vat 29",2,small cracks
+B14880,Gen4.1,CATHODE,2026-09-03,"Less Cracked, Vat 30",2,small cracks
+B14881,Gen4.1,CATHODE,2026-09-03,"Very small cracks, Vat 28",4,very few microcracks
+B14908,Gen4.1,CATHODE,2026-09-05,"Microcracked, Vat 29",3,microcracks
+B14909,Gen4.1,CATHODE,2026-09-05,"Microcracked, Vat 30",3,microcracks
+B14910,Gen4.1,CATHODE,2026-09-05,"Microcracked, Vat 28",3,microcracks
+B14920,Gen4.1,CATHODE,2026-09-10,Less cracked,2,small cracks
+B14929,Gen4.1,CATHODE,2026-09-09,Cracked,1,cracked
+B14940,Gen4.1,CATHODE,2026-09-08,Cracked Vat 28,1,cracked
+B14942,Gen4.1,CATHODE,2026-09-09,Microcracked Vat 30,3,microcracks
+B14950,Gen4.1,CATHODE,2026-09-08,Cracked Vat 30,1,cracked
+B14951,Gen4.1,CATHODE,2026-09-08,Cracked Vat 28,1,cracked
+B14959,Gen4.1,CATHODE,2026-09-09,Cracked Vat 30,1,cracked
+B14960,Gen4.1,CATHODE,2026-09-09,Less cracked Vat 28,2,small cracks
+B14968,Gen4.1,CATHODE,2026-09-10,Microcracked,3,microcracks
+B14970,Gen4.1,CATHODE,2026-09-08,Less cracked Vat 29,2,small cracks
+B14977,Gen4.1,CATHODE,2026-09-10,Less cracked,2,small cracks
+B14985,Gen4.1,CATHODE,2026-09-09,Cracked vat 29,1,cracked
+B14992,Gen4.1,CATHODE,2026-09-08,Less cracked Vat 30,2,small cracks
+B14993,Gen4.1,CATHODE,2026-09-08,Cracked Vat 29,1,cracked
+B14999,Gen4.1,CATHODE,2026-09-09,Cracked Vat 29,1,cracked
+B15000,Gen4.1,CATHODE,2026-09-08,Cracked Vat 30,1,cracked
+B15006,Gen4.1,CATHODE,2026-09-10,Cracked,1,cracked
+B15011,Gen4.1,CATHODE,2026-09-09,Microcracks vat 30,3,microcracks
+B15014,Gen4.1,CATHODE,2026-09-12,Few microcracks,3,microcracks
+B15015,Gen4.1,CATHODE,2026-09-11,Microcracked,3,microcracks
+B15024,Gen4.1,CATHODE,2026-09-11,Cracked,1,cracked
+B15028,Gen4.1,CATHODE,2026-09-11,Microcracked,3,microcracks
+B15030,Gen4.1,CATHODE,2026-09-09,Few microcracks,3,microcracks
+B15034,Gen4.1,CATHODE,2026-09-09,Cracked vat 28,1,cracked
+B15035,Gen4.1,CATHODE,2026-09-09,Cracked Vat 29,1,cracked
+B15043,Gen4.1,CATHODE,2026-09-11,Microcracked,3,microcracks
+B15046,Gen4.1,CATHODE,2026-09-11,Few microcrackes,3,microcracks
+B15060,Gen4.1,CATHODE,2026-09-09,Few microcracks Vat 29,3,microcracks
+B15061,Gen4.1,CATHODE,2026-09-10,Few microcracks,3,microcracks
+B15091,Gen4.1,CATHODE,2026-09-10,"Few microcracks, Vat 30",3,microcracks
+B15102,Gen4.1,CATHODE,2026-09-10,Fine,5,fine
+B15112,Gen4.1,CATHODE,2026-09-12,Microcracked,3,microcracks
+B15118,Gen4.1,CATHODE,2026-09-11,Microcracked,3,microcracks
+B15121,Gen4.1,CATHODE,2026-09-11,Cracked,1,cracked
+B15131,Gen4.1,CATHODE,2026-09-12,Less cracked,2,small cracks
+B15136,Gen4.1,CATHODE,2026-09-12,Few microcracks,3,microcracks
+B15144,Gen4.1,CATHODE,2026-09-12,Few microcracks,3,microcracks
+B15145,Gen4.1,CATHODE,2026-09-12,Less cracked,2,small cracks
+B15160,Gen4.1,CATHODE,2026-09-12,Cracked,1,cracked
+B15176,Gen4.1,CATHODE,2026-09-12,Cracked,1,cracked
+B15177,Gen4.1,CATHODE,2026-09-12,Cracked,1,cracked
+B15186,Gen4.1,CATHODE,2026-09-12,Cracked,1,cracked
+B15187,Gen4.1,CATHODE,2026-09-13,microcracks,3,microcracks
+B15194,Gen4.1,CATHODE,2026-09-14,Less cracked,2,small cracks
+B15195,Gen4.1,CATHODE,2026-09-12,Less cracked,2,small cracks
+B15202,Gen4.1,CATHODE,2026-09-13,Cracked,1,cracked
+B15206,Gen4.1,CATHODE,2026-09-13,Few microcracks,3,microcracks
+B15210,Gen4.1,CATHODE,2026-09-14,Microcracked,3,microcracks
+B15229,Gen4.1,CATHODE,2026-09-14,Less cracked,2,small cracks
+B15236,Gen4.1,CATHODE,2026-09-14,Less cracked,2,small cracks
+B15249,Gen4.1,CATHODE,2026-09-14,Less cracked,2,small cracks
+B15279,Gen4.1,CATHODE,2026-09-15,Less cracked,2,small cracks
+B15280,Gen4.1,CATHODE,2026-09-15,Few microcracks,3,microcracks
+B15284,Gen4.1,CATHODE,2026-09-15,Less cracked,2,small cracks
+B15287,Gen4.1,CATHODE,2026-09-20,Few microcracks,3,microcracks
+B15296,Gen4.1,CATHODE,2026-09-19,Cracked,1,cracked
+B15297,Gen4.1,CATHODE,2026-09-20,Less cracked,2,small cracks
+B15305,Gen4.1,CATHODE,2026-09-17,Cracked,1,cracked
+B15306,Gen4.1,CATHODE,2026-09-19,Cracked,1,cracked
+B15313,Gen4.1,CATHODE,2026-09-17,vat 29; cracked,1,cracked
+B15314,Gen4.1,CATHODE,2026-09-17,Cracked,1,cracked
+B15320,Gen4.1,CATHODE,2026-09-16,microcracks,3,microcracks
+B15323,Gen4.1,CATHODE,2026-09-17,vat 30; CRACKED,1,cracked
+B15326,Gen4.1,CATHODE,2026-09-19,Microcracks,3,microcracks
+B15331,Gen4.1,CATHODE,2026-09-17,Fine,5,fine
+B15333,Gen4.1,CATHODE,2026-09-17,Microcracked,3,microcracks
+B15353,Gen4.1,CATHODE,2026-09-18,Less cracked,2,small cracks
+B15359,Gen4.1,CATHODE,2026-09-18,Less cracked,2,small cracks
+B15375,Gen4.1,CATHODE,2026-09-18,Microcracked,3,microcracks
+B15395,Gen4.1,CATHODE,2026-09-18,Less cracked,2,small cracks
+B15400,Gen4.1,CATHODE,2026-09-18,Less cracked,2,small cracks
+B15405,Gen4.1,CATHODE,2026-09-18,Less cracked,2,small cracks
+B15431,Gen4.1,CATHODE,2026-09-20,Microcracks,3,microcracks
+B15435,Gen4.1,CATHODE,2026-09-19,Less Cracked,2,small cracks
+B15437,Gen4.1,CATHODE,2026-09-19,"Few Microcracks, Lots of Ni",3,microcracks
+B15441,Gen4.1,CATHODE,2026-09-19,Cracked,1,cracked
+B15456,Gen4.1,CATHODE,2026-09-20,Less cracked,2,small cracks
+B15467,Gen4.1,CATHODE,2026-09-19,Microcracks,3,microcracks
+B15468,Gen4.1,CATHODE,2026-09-20,Fine,5,fine
+B15479,Gen4.1,CATHODE,2026-09-20,Fine,5,fine
+B15499,Gen4.1,CATHODE,2026-09-20,microcracks,3,microcracks
+B15509,Gen4.1,CATHODE,2026-09-21,Microcracks,3,microcracks
+B15522,Gen4.1,CATHODE,2026-09-21,vat 29; Fine,5,fine
+B15532,Gen4.1,CATHODE,2026-09-21,vat 30; Fine,5,fine
+B15537,Gen4.1,CATHODE,2026-09-21,vat 29; Fine. Notes from production: Burn on the electrode on the clamp side.,5,fine
+B15551,Gen4.1,CATHODE,2026-09-22,Microcracked,3,microcracks
+B15554,Gen4.1,CATHODE,2026-09-22,Few microcrackes,3,microcracks
+B15565,Gen4.1,CATHODE,2026-09-22,Microcracked,3,microcracks
+B15566,Gen4.1,CATHODE,2026-09-22,Few microcracks,3,microcracks
+B15582,Gen4.1,CATHODE,2026-09-22,Few microcracks,3,microcracks
+B15593,Gen4.1,CATHODE,2026-09-22,Microcracked,3,microcracks
+B15596,Gen4.1,CATHODE,2026-09-23,Mickrocracked,3,microcracks
+B15603,Gen4.1,CATHODE,2026-09-23,Few microcracks,3,microcracks
+B15608,Gen4.1,CATHODE,2026-09-23,Microcracked,3,microcracks
+B15613,Gen4.1,CATHODE,2026-09-23,Microcracked,3,microcracks
+B15617,Gen4.1,CATHODE,2026-09-25,Few microcracks,3,microcracks
+B15638,Gen4.1,CATHODE,2026-09-24,Few microcracks,3,microcracks
+B15656,Gen4.1,CATHODE,2026-09-24,Microcracked,3,microcracks
+B15660,Gen4.1,CATHODE,2026-09-24,Microcracked,3,microcracks
+B15685,Gen4.1,CATHODE,2026-09-25,Few microcracks,3,microcracks
+B15698,Gen4.1,CATHODE,2026-09-25,Microcracked,3,microcracks
+B15703,Gen4.1,CATHODE,2026-09-25,Few mickrocrackes,3,microcracks
+B15723,Gen4.1,CATHODE,2026-09-26,Less cracked,2,small cracks
+B15727,Gen4.1,CATHODE,2026-09-26,Microcracked,3,microcracks
+B15730,Gen4.1,CATHODE,2026-10-02,Few microcracks,3,microcracks
+B15740,Gen4.1,CATHODE,2026-09-26,Microcracked,3,microcracks
+B15742,Gen4.1,CATHODE,2026-09-26,Microcracked,3,microcracks
+B15750,Gen4.1,CATHODE,2026-10-02,Microcracked,3,microcracks
+B15765,Gen4.1,CATHODE,2026-10-02,Microcracked,3,microcracks
+B15775,Gen4.1,CATHODE,2026-09-27,Fine,5,fine
+B15776,Gen4.1,CATHODE,2026-10-02,Microcracks,3,microcracks
+B15781,Gen4.1,CATHODE,2026-09-27,Less cracked,2,small cracks
+B15783,Gen4.1,CATHODE,2026-09-30,Cracked,1,cracked
+B15784,Gen4.1,CATHODE,2026-10-02,Cracked,1,cracked
+B15792,Gen4.1,CATHODE,2026-09-28,Cracked,1,cracked
+B15793,Gen4.1,CATHODE,2026-10-02,Cracked,1,cracked
+B15801,Gen4.1,CATHODE,2026-09-28,Cracked,1,cracked
+B15802,Gen4.1,CATHODE,2026-10-02,Fine,5,fine
+B15810,Gen4.1,CATHODE,2026-09-28,Microcracked,3,microcracks
+B15824,Gen4.1,CATHODE,2026-09-28,Microcracked,3,microcracks
+B15849,Gen4.1,CATHODE,2026-09-29,Few microcrackes,3,microcracks
+B15852,Gen4.1,CATHODE,2026-09-29,Few microcracks,3,microcracks
+B15854,Gen4.1,CATHODE,2026-09-29,Microcracked,3,microcracks
+B15863,Gen4.1,CATHODE,2026-09-29,Fine,5,fine
+B15870,Gen4.1,CATHODE,2026-09-29,Few microcracks,3,microcracks
+B15877,Gen4.1,CATHODE,2026-09-29,Fine,5,fine
+B15940,Gen4.1,CATHODE,2026-10-03,few microcracks,3,microcracks
+B15941,Gen4.1,CATHODE,2026-10-03,microcracked,3,microcracks
+B15942,Gen4.1,CATHODE,2026-10-03,microcracked,3,microcracks
+B15983,Gen4.1,CATHODE,2026-10-04,Few microcracks,3,microcracks
+B15990,Gen4.1,CATHODE,2026-10-04,Less cracked,2,small cracks
+B15999,Gen4.1,CATHODE,2026-10-04,Cracked,1,cracked
+B16008,Gen4.1,CATHODE,2026-10-04,Cracked,1,cracked
+B16014,Gen4.1,CATHODE,2026-10-05,microcracked,3,microcracks
+B16017,Gen4.1,CATHODE,2026-10-05,Less cracked,2,small cracks
+B16032,Gen4.1,CATHODE,2026-10-05,few microcracks,3,microcracks
+B16060,Gen4.1,CATHODE,2026-10-06,Microcracks,3,microcracks
+B16076,Gen4.1,CATHODE,2026-10-07,Less cracked,2,small cracks
+B16087,Gen4.1,CATHODE,2026-10-07,Less cracked,2,small cracks
+B16107,Gen4.1,CATHODE,2026-10-08,few microcracks,3,microcracks
+B16121,Gen4.1,CATHODE,2026-10-08,few microcracks,3,microcracks
+B16128,Gen4.1,CATHODE,2026-10-09,Fine,5,fine
+B16155,Gen4.1,CATHODE,2026-10-09,Microcracks,3,microcracks
+B16156,Gen4.1,CATHODE,2026-10-13,microcracks,3,microcracks
+B16165,Gen4.1,CATHODE,2026-10-12,Cracked,1,cracked
+B16166,Gen4.1,CATHODE,2026-10-09,Few microcracks,3,microcracks
+B16176,Gen4.1,CATHODE,2026-10-11,Cracked,1,cracked
+B16185,Gen4.1,CATHODE,2026-10-12,Few microcracks,3,microcracks
+B16200,Gen4.1,CATHODE,2026-10-10,Few microcracks,3,microcracks
+B16203,Gen4.1,CATHODE,2026-10-10,Few microcracks,3,microcracks
+B16225,Gen4.1,CATHODE,2026-10-11,Fine,5,fine
+B16230,Gen4.1,CATHODE,2026-10-10,microcracks,3,microcracks
+B16250,Gen4.1,CATHODE,2026-10-11,Microcracks,3,microcracks
+B16261,Gen4.1,CATHODE,2026-10-12,Less crack,2,small cracks
+B16270,Gen4.1,CATHODE,2026-10-11,Cracked,1,cracked
+B16275,Gen4.1,CATHODE,2026-10-12,Fine,5,fine
+B16277,Gen4.1,CATHODE,2026-10-12,Less crack,2,small cracks
+B16279,Gen4.1,CATHODE,2026-10-13,Cracked,1,cracked
+B16282,Gen4.1,CATHODE,2026-10-13,Cracked,1,cracked
+B16296,Gen4.1,CATHODE,2026-10-13,Less cracked,2,small cracks
+B16335,Gen4.1,CATHODE,2026-10-14,Less cracked,2,small cracks
+B16344,Gen4.1,CATHODE,2026-10-13,Cracked,1,cracked
+B16349,Gen4.1,CATHODE,2026-10-13,Microcracks,3,microcracks
+B16351,Gen4.1,CATHODE,2026-10-13,Microcracks,3,microcracks
+B16358,Gen4.1,CATHODE,2026-10-14,Cracked,1,cracked
+B16370,Gen4.1,CATHODE,2026-10-14,Microcraks,3,microcracks
+B16424,Gen4.1,CATHODE,2026-10-15,Less cracked,2,small cracks
+B16425,Gen4.1,CATHODE,2026-10-15,Less cracked,2,small cracks
+B16438,Gen4.1,CATHODE,2026-10-16,Less cracked,2,small cracks
+B16466,Gen4.1,CATHODE,2026-10-16,Microcracked,3,microcracks
+B16499,Gen4.1,CATHODE,2026-10-17,Less cracked,2,small cracks
+B16500,Gen4.1,CATHODE,2026-10-17,Less cracked,2,small cracks
+B16541,Gen4.1,CATHODE,2026-10-18,Few microcracks,3,microcracks
+B16575,Gen4.1,CATHODE,2026-10-19,Less cracked,2,small cracks
+B16576,Gen4.1,CATHODE,2026-10-19,Less cracked,2,small cracks
+B16616,Gen4.1,CATHODE,2026-10-20,Microcracked,3,microcracks
+B16650,Gen4.1,CATHODE,2026-10-21,Few microcracks,3,microcracks
+B16651,Gen4.1,CATHODE,2026-10-21,Microcracked,3,microcracks

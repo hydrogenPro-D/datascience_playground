@@ -1,0 +1,1903 @@
+chemical_addition_log_id,Row added,Date,Initials,Vat. 17 (Cathodic) (kg),Vat. 18 (Activation ) (kg),Vat. 28 (Plating 1) (kg),Vat. 28 (Plating 1) Water Level Reduction (cm),Vat. 29 (Plating 2) (kg),Vat. 29 (Plating 2) Water Level Reduction (cm),Vat. 30 (Plating 3) (kg),Vat. 30 (Plating 3) Water Level Reduction (cm),Vat. 31 (Strike) (kg),Vat. 31 (Strike) Water Level Reduction (cm),Time when added,Notes
+1,,2025-08-09,Julia and Tamas,,,,,,,,,,,,"We are still missing to adjust cathodic,  activation and strike. We also have high chlorids that wasn’t adjusted. Vat. 29 (Plating 2): 2.1 ml  Sulfuric acid in 5 l water Vat. 30 (Plating 3): 38.3 kg TU  (1.53 bag) 4 ml sulfuric acid in 5 L water"
+2,,2025-08-11,Mikkel og Lasse ,,,,,,,,,"50 kg NiCl2*6H2O
+150 kg HCl 30%",,,
+3,,2025-08-12,Andreas og Mads,100 kg Slotoclean EL DCG,,,,,,,,,,,
+4,,2025-08-12,Roy and Andri,,,,,"100 kg NiSO4*6H2O
+50 kg TU",,"125 kg NiSO4*6H2O
+50 kg TU",,,,,We are missing BA for vat 29 and 30. We also do not have Slotoclean Decasel 5 for Vat 18
+5,,2025-08-14,Andri and Andreas,,,,,25 kg BA,,50 kg BA,,,,,
+6,,2025-08-22,Anders & Mads,,,,,15 kg TU,,25 kg TU,,,,,
+7,,2025-08-22,Anders & Mads,,,,,,,,,,,,Vat. 29 and Vat. 30: 0.5 L sulfuric acid mix
+8,,2025-09-10,Julia and Daniel,,,,,,,,,145 kg HCl 30%,,,
+9,,2025-09-10,Roy and Bardia,,,,,"100 kg NiSO4*6H2O
+25 kg BA
+25 kg TU",,"125 kg NiSO4*6H2O
+50 kg TU
+25 kg BA",,,,,
+10,,2025-09-19,All shifts,125 kg Slotoclean EL DCG,150 kg Slotoclean Decasel 5,"300 kg NiSO4*6H2O
+25 kg BA
+162.5 kg TU
+125 kg NiCl2*6H2O",,"75 kg NiSO4*6H2O
+50 kg TU
+25 kg BA",,"50 kg NiSO4*6H2O
+50 kg TU
+25 kg BA",,100 kg HCl 30%,,,
+11,,2025-09-24,Julia & Andri,,,,,,,,,50 kg HCl 30%,,,
+12,,2025-09-26,,,,,,,,,,,,,
+13,,2025-09-27,,,,"0.945 kg TU
+0.371 kg BA",,"0.54 kg TU
+0.212 kg BA",,"0.27 kg TU
+0.106 kg BA",,,,,Ex. Anders
+14,,2025-09-28,,,,"0.405 kg TU
+0.159 kg BA",,"0.81 kg TU
+0.318 kg BA",,"1.08 kg TU
+0.424 kg BA",,,,,Ex. Anders
+15,,2025-09-30,,,,,,,,,,,,,
+16,,2025-09-30,,,,"0.81 kg TU
+0.318 kg BA",,"0.81 kg TU
+0.318 kg BA",,,,,,,
+17,,2025-10-01,,,,"0.81 kg TU
+0.318 kg BA",,"0.54 kg TU
+0.212 kg BA",,"0.405 kg TU
+0.159 kg BA",,,,,
+18,,2025-10-01,,,,"0.135 kg TU
+0.053 kg BA",,,,"0.27 kg TU
+0.106 kg BA",,,,,
+19,,2025-10-01,,,,"0.945 kg TU
+0.371 kg BA",,"0.81 kg TU
+0.318 kg BA",,"0.135 kg TU
+0.053 kg BA",,,,,
+20,,2025-10-02,,,,"1.35 kg TU
+0.53 kg BA",,"0.405 kg TU
+0.159 kg BA",,"0.27 kg TU
+0.106 kg BA",,,,,
+21,,2025-10-03,,,,"0.54 kg TU
+0.212 kg BA",,"0.27 kg TU
+0.106 kg BA",,"0.27 kg TU
+0.106 kg BA",,,,,
+22,,2025-10-03,,,,"0.54 kg TU
+0.212 kg BA",,"0.27 kg TU
+0.106 kg BA",,"0.27 kg TU
+0.106 kg BA",,,,,
+23,,2025-10-03,,,,"1.215 kg TU
+0.477 kg BA",,"0.54 kg TU
+0.212 kg BA",,"0.675 kg TU
+0.265 kg BA",,,,,
+24,,2025-10-04,,,,"1.89 kg TU
+0.742 kg BA",,"0.675 kg TU
+0.265 kg BA",,"0.675 kg TU
+0.265 kg BA",,,,,
+25,,2025-10-04,,,,,,,,,,,,,
+26,,2025-10-07,,,,"75 kg NiSO4*6H2O
+25 kg TU
+25 kg BA",,"25 kg NiSO4*6H2O
+25 kg TU
+25 kg BA",,"50 kg NiSO4*6H2O
+25 kg TU
+25 kg BA",,150 kg HCl 30%,,,Initials: ???
+27,,2025-10-08,,,,"2.7 kg TU
+1.06 kg BA",,"1.215 kg TU
+0.477 kg BA",,"1.08 kg TU
+0.424 kg BA",,,,,
+28,,2025-10-09,,,,"1.485 kg TU
+0.583 kg BA",,"0.405 kg TU
+0.159 kg BA",,"0.405 kg TU
+0.159 kg BA",,,,,
+29,,2025-10-09,,,,"0.675 kg TU
+0.265 kg BA",,"0.54 kg TU
+0.212 kg BA",,"0.54 kg TU
+0.212 kg BA",,,,,
+30,,2025-10-12,,,,"3.915 kg TU
+1.537 kg BA",,"2.16 kg TU
+0.848 kg BA",,"2.16 kg TU
+0.848 kg BA",,,,,
+31,,2025-10-13,,,,"1.755 kg TU
+0.689 kg BA",,"0.54 kg TU
+0.212 kg BA",,"0.81 kg TU
+0.318 kg BA",,,,,
+32,,2025-10-13,,,,"2.025 kg TU
+0.795 kg BA",,"0.945 kg TU
+0.371 kg BA",,"0.945 kg TU
+0.371 kg BA",,,,,
+33,,2025-10-14,,,,"1.08 kg TU
+0.424 kg BA",,"0.675 kg TU
+0.265 kg BA",,"0.54 kg TU
+0.212 kg BA",,,,,
+34,,2025-10-14,,,,"1.89 kg TU
+0.742 kg BA",,"0.945 kg TU
+0.371 kg BA",,"1.08 kg TU
+0.424 kg BA",,,,,
+35,,2025-10-16,,,,"1.08 kg TU
+0.424 kg BA",,"0.675 kg TU
+0.265 kg BA",,"0.405 kg TU
+0.159 kg BA",,,,,
+36,,2025-10-16,,,,"1.35 kg TU
+0.53 kg BA",,"0.675 kg TU
+0.265 kg BA",,"0.405 kg TU
+0.159 kg BA",,,,,Anders
+37,,2025-10-17,,,,"1.08 kg TU
+0.424 kg BA",,"0.675 kg TU
+0.265 kg BA",,"0.405 kg TU
+0.159 kg BA",,,,,Anders
+38,,2025-10-17,,,,"1.485 kg TU
+0.583 kg BA",,"0.54 kg TU
+0.212 kg BA",,"0.405 kg TU
+0.159 kg BA",,,,,
+39,,2025-10-17,,,,"0.945 kg TU
+0.371 kg BA",,"0.405 kg TU
+0.159 kg BA",,"0.405 kg TU
+0.159 kg BA",,,,,Anders
+40,,2025-10-18,,,,"1.755 kg TU
+0.689 kg BA",,"0.81 kg TU
+0.318 kg BA",,"0.675 kg TU
+0.265 kg BA",,,,,Anders
+41,,2025-10-19,,,,"1.485 kg TU
+0.583 kg BA",,"0.81 kg TU
+0.318 kg BA",,"1.08 kg TU
+0.424 kg BA",,,,,Anders
+42,,2025-10-19,,,,"1.485 kg TU
+0.583 kg BA",,"0.945 kg TU
+0.371 kg BA",,"0.945 kg TU
+0.371 kg BA",,,,,Anders
+43,,2025-10-19,,,,"1.62 kg TU
+0.636 kg BA",,"0.675 kg TU
+0.265 kg BA",,"0.405 kg TU
+0.159 kg BA",,,,,Julia
+44,,2025-10-20,Roy&Mikkel,,,,,,,,,33 kg HCl 30%,,,
+45,,2025-10-20,,,,"1.485 kg TU
+0.583 kg BA",,"0.675 kg TU
+0.265 kg BA",,"0.405 kg TU
+0.159 kg BA",,,,,Mikkel
+46,,2025-10-20,,,,"1.89 kg TU
+0.742 kg BA",,"0.675 kg TU
+0.265 kg BA",,"0.405 kg TU
+0.159 kg BA",,,,,Andreas/Daniel
+47,,2025-10-21,Roy&Mikkel,,,"25 kg NiSO4*6H2O
+25 kg TU",,,,,,70 kg HCl 30%,,,
+48,,2025-10-21,,,,"3.24 kg TU
+1.272 kg BA",,"0.675 kg TU
+0.265 kg BA",,"0.405 kg TU
+0.159 kg BA",,,,,Julia
+49,,2025-10-22,,,,"2.43 kg TU
+0.954 kg BA",,"0.675 kg TU
+0.265 kg BA",,"0.405 kg TU
+0.159 kg BA",,,,,Mikkel
+50,,2025-10-22,,,,"0.945 kg TU
+0.28 kg BA",,"0.675 kg TU
+0.2 kg BA",,"0.405 kg TU
+0.12 kg BA",,,,,Julia
+51,,2025-10-23,,,,"0.81 kg TU
+0.24 kg BA",,"0.675 kg TU
+0.2 kg BA",,"0.405 kg TU
+0.12 kg BA",,,,,Mikkel
+52,,2025-10-23,,,,"1.485 kg TU
+0.44 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,Julia
+53,,2025-10-24,,,,"1.755 kg TU
+0.52 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,Mads
+54,,2025-10-24,,,,"2.16 kg TU
+0.64 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,Julia
+55,,2025-10-25,,,,"1.08 kg TU
+0.32 kg BA",,,,"0.945 kg TU
+0.28 kg BA",,,,,Mads
+56,,2025-10-26,,,,"3.78 kg TU
+1.12 kg BA",,"2.43 kg TU
+0.72 kg BA",,"1.485 kg TU
+0.44 kg BA",,,,,Mads
+57,,2025-10-26,,,,"2.025 kg TU
+0.6 kg BA",,"0.945 kg TU
+0.28 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,Anders
+58,,2025-10-27,,,,"0.81 kg TU
+0.24 kg BA",,"0.54 kg TU
+0.16 kg BA",,"0.54 kg TU
+0.16 kg BA",,,,,Andri
+59,,2025-10-27,,,,"1.215 kg TU
+0.36 kg BA",,"0.675 kg TU
+0.2 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,Julia
+60,,2025-10-27,,,,"1.62 kg TU
+0.48 kg BA",,"0.54 kg TU
+0.16 kg BA",,"0.405 kg TU
+0.12 kg BA",,,,,
+61,,2025-10-30,Roy&Richard,,20 kg Slotoclean Decasel 5,,,,,,,100 kg HCl 30%,,,
+62,,2025-10-31,Mads&Andri,,,,,,,,,"150 kg HCl 30%
+100 kg NiCl2*6H2O",,,
+63,,2025-11-02,,,,"7.02 kg TU
+2.08 kg BA",,"4.995 kg TU
+1.48 kg BA",,"3.915 kg TU
+1.16 kg BA",,,,,Downtime in production from 27.10 to 02.11. Chemistry hasn't been added in this time.
+64,,2025-11-02,,,,,,"1.755 kg TU
+0.52 kg BA",,,,,,,Anders
+65,,2025-11-02,,,,,,"2.295 kg TU
+0.68 kg BA",,,,,,,Mads
+66,,2025-11-05,Mads&Andri,,120 kg Slotoclean Decasel 5,,,"125 kg NiSO4*6H2O
+50 kg BA
+50 kg TU",,,,,,,We were supposed to add 150 kg NiSO4 we only had 5 bags. Flemming approved
+67,,2025-11-05,,,,"4.05 kg TU
+1.2 kg BA",,"5.4 kg TU
+1.6 kg BA",,"6.615 kg TU
+1.96 kg BA",,,,,New chemicals. We zero it
+68,,2025-11-06,Mads&Andri,,,,,25 kg NiSO4*6H2O,,"150 kg NiSO4*6H2O
+50 kg BA
+50 kg TU",,,,,
+69,,2025-11-06,,,,,,"1.89 kg TU
+0.56 kg BA",,,,,,,Julia & Daniel
+70,,2025-11-06,,,,,,"1.89 kg TU
+0.56 kg BA",,,,,,,Roy/
+71,,2025-11-07,,,,,,"2.43 kg TU
+0.72 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,Julia & Daniel. TU and Boric have too high conc.
+72,,2025-11-08,,,,,,"5.535 kg TU
+1.64 kg BA",,"5.67 kg TU
+1.68 kg BA",,,,,"Anders. As concentration yesterday night were too high, no chemicals were added this shift."
+73,,2025-11-08,,,,,,"1.215 kg TU
+0.36 kg BA",,"1.62 kg TU
+0.48 kg BA",,,,,
+74,,2025-11-09,,,,,,"0.675 kg TU
+0.2 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,Anders&Roy
+75,,2025-11-10,Mads&Andri,,,,,,,,,"500 kg NiCl2*6H2O
+380 kg HCl 30%",,,
+76,,2025-11-10,,,,,,"0.945 kg TU
+0.28 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,"Anders. No chemicals were added as Boric acid conc. was too high, and TU was suspected high as well."
+77,,2025-11-13,,,,,,"8.505 kg TU
+2.52 kg BA",,"12.15 kg TU
+3.6 kg BA",,,,,Anders. No chemicals were added as Boric acid and TU conc. is suspected too high.
+78,,2025-11-14,Mads&Andri,,,"300 kg NiSO4*6H2O
+150 kg NiCl2*6H2O
+125 kg BA
+150 kg TU",,,,,,,,,
+79,,2025-11-15,Mikkel and Andreas,,,,,21 kg TU,,21 kg TU,,,,,
+80,,2025-11-15,,,,,,"3.375 kg TU
+1 kg BA",,"4.995 kg TU
+1.48 kg BA",,,,,"Julia. Zero the resluts. Boric and TU way too low,need to add big amount."
+81,,2025-11-15,,,,,,"0.675 kg TU
+0.2 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,Not added. Bcs added 21 kg of TU
+82,,2025-11-16,,,,"0.81 kg TU
+0.24 kg BA",,"0.945 kg TU
+0.28 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,"Julia and Daniel, everything okay!"
+83,,2025-11-16,,,,"2.025 kg TU
+0.6 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.485 kg TU
+0.44 kg BA",,,,,Start of night shift - Julia
+84,,2025-11-17,Mikkel and Andreas,,,"50 kg NiSO4*6H2O
+25 kg TU",,"125 kg NiSO4*6H2O
+50 kg TU
+25 kg BA",,"125 kg NiSO4*6H2O
+50 kg TU
+25 kg BA",,"25 kg NiCl2*6H2O
+150 kg HCl 30%",,,Dumped before adding chemicals:  VAT 28 36cm corresponding to 525 L VAT 29 63cm corresponding to 910 L VAT 30 74cm corresponding to 1070 L Vat 31 11cm corresponding to 150 L
+85,,2025-11-17,,,,"0.945 kg TU
+0.28 kg BA",,"0.54 kg TU
+0.16 kg BA",,"0.405 kg TU
+0.12 kg BA",,,,,End of night shift
+86,,2025-11-18,Anders,,3 kg Slotoclean Decasel 5,,,,,,,,,,Flemming wanted 25 kg but we only found 3kg in storage.
+87,,2025-11-18,,,,"2.295 kg TU
+0.68 kg BA",,,,,,,,,"Number of flight bars after having adjusted vat 28, 29, 30 and 31."
+88,,2025-11-18,,,,"0.81 kg TU
+0.24 kg BA",,"0.405 kg TU
+0.12 kg BA",,"0.54 kg TU
+0.16 kg BA",,,,,Anders
+89,,2025-11-19,,,,"2.7 kg TU
+0.8 kg BA",,"0.81 kg TU
+0.24 kg BA",,"1.755 kg TU
+0.52 kg BA",,,,,Anders. Added amount equal to evening and night shift combined.
+90,,2025-11-19,,,,"2.025 kg TU
+0.6 kg BA",,"0.675 kg TU
+0.2 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+91,,2025-11-20,,,,,,"2.025 kg TU
+0.6 kg BA",,"2.025 kg TU
+0.6 kg BA",,,,,
+92,,2025-11-20,,,,,,"1.755 kg TU
+0.52 kg BA",,"1.755 kg TU
+0.52 kg BA",,,,,
+93,,2025-11-21,,,,"2.16 kg TU
+0.64 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,Lasse
+94,,2025-11-21,,,,"1.755 kg TU
+0.52 kg BA",,"0.81 kg TU
+0.24 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,Julia
+95,,2025-11-22,,,,"0.81 kg TU
+0.24 kg BA",,"0.675 kg TU
+0.2 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,Julia
+96,,2025-11-23,Richard & Roy,,,,,,,,,"500 kg NiCl2*6H2O
+380 kg HCl 30%",,,New strike - bcs high conc. gas
+97,,2025-11-25,Mikkel and Andreas,60 kg Slotoclean EL DCG,60 kg Slotoclean Decasel 5,,,,,,,,,,
+98,,2025-11-25,,,,"2.43 kg TU
+0.72 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,
+99,,2025-11-26,,,,"1.08 kg TU
+0.32 kg BA",,"0.54 kg TU
+0.16 kg BA",,"0.405 kg TU
+0.12 kg BA",,,,,Anders
+100,,2025-11-26,,,,"0.675 kg TU
+0.2 kg BA",,"1.62 kg TU
+0.48 kg BA",,"1.62 kg TU
+0.48 kg BA",,,,,Julia
+101,,2025-11-27,,,,,,"1.485 kg TU
+0.44 kg BA",,"1.485 kg TU
+0.44 kg BA",,,,,
+102,,2025-11-27,,,,"0.945 kg TU
+0.28 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Julia
+103,,2025-11-28,,,,,,"1.62 kg TU
+0.48 kg BA",,"1.62 kg TU
+0.48 kg BA",,,,,Lasse
+104,,2025-11-28,,,,"1.755 kg TU
+0.52 kg BA",,"0.675 kg TU
+0.2 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,
+105,,2025-11-29,,,,"0.81 kg TU
+0.24 kg BA",,"2.835 kg TU
+0.84 kg BA",,"2.7 kg TU
+0.8 kg BA",,,,,
+106,,2025-11-30,,,,"0.945 kg TU
+0.28 kg BA",,"3.24 kg TU
+0.96 kg BA",,"3.375 kg TU
+1 kg BA",,,,,
+107,,2025-12-01,Mads & Roy,,,,,"87.5 kg NiSO4*6H2O
+30 kg TU
+28 kg BA",,"87.5 kg NiSO4*6H2O
+37.5 kg TU
+37.5 kg BA",,,,,
+108,,2025-12-01,,,,"1.08 kg TU
+0.32 kg BA",,"1.08 kg TU
+0.32 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,
+109,,2025-12-01,,,,,,"1.485 kg TU
+0.44 kg BA",,"1.485 kg TU
+0.44 kg BA",,,,,For yesterday
+110,,2025-12-02,,,,"1.08 kg TU
+0.32 kg BA",,"0.54 kg TU
+0.16 kg BA",,"0.135 kg TU
+0.04 kg BA",,,,,Julia
+111,,2025-12-02,,,,"1.08 kg TU
+0.32 kg BA",,"0.405 kg TU
+0.12 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,Anders
+112,,2025-12-03,,,,"1.215 kg TU
+0.36 kg BA",,"0.54 kg TU
+0.16 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,
+113,,2025-12-03,,,,"0.675 kg TU
+0.2 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,Julia
+114,,2025-12-03,,,,"0.945 kg TU
+0.28 kg BA",,"0.675 kg TU
+0.2 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,Anders
+115,,2025-12-04,,,,"0.675 kg TU
+0.2 kg BA",,"0.54 kg TU
+0.16 kg BA",,"0.405 kg TU
+0.12 kg BA",,,,,
+116,,2025-12-05,Anders & Roy,100 kg Slotoclean EL DCG,80 kg Slotoclean Decasel 5,,,,,,,100 kg HCl 30%,,,Still low konc. In Cathodic (missing chemicals) + We need some nickel chlorid in strike) Vat. 17 (Cathodic) : + Demi. Water
+117,,2025-12-05,,,,"2.43 kg TU
+0.72 kg BA",,"1.08 kg TU
+0.32 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Julia
+118,,2025-12-05,,,,"0.81 kg TU
+0.24 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,Daniel
+119,,2025-12-06,,,,"0.81 kg TU
+0.24 kg BA",,"1.755 kg TU
+0.52 kg BA",,"1.755 kg TU
+0.52 kg BA",,,,,Daniel (Start shift)
+120,,2025-12-06,,,,"1.485 kg TU
+0.44 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,Andri
+121,,2025-12-07,,,,"2.43 kg TU
+0.72 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,Daniel (Start shift)
+122,,2025-12-07,,,,"0.81 kg TU
+0.24 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Daniel
+123,,2025-12-08,,,,"3.105 kg TU
+0.92 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,Daniel
+124,,2025-12-10,Daniel & Andri,,20 kg Slotoclean Decasel 5,,,,,,,"150 kg NiCl2*6H2O
+250 kg HCl 30%",,,
+125,,2025-12-10,Julia&Lasse,60 kg Slotoclean EL DCG,,,,,,,,,,,
+126,,2025-12-10,,,,"1.215 kg TU
+0.36 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,
+127,,2025-12-11,,,,"1.35 kg TU
+0.4 kg BA",,"0.675 kg TU
+0.2 kg BA",,"0.54 kg TU
+0.16 kg BA",,,,,
+128,,2025-12-11,,,,"0.675 kg TU
+0.2 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,
+129,,2025-12-12,,,,"0.675 kg TU
+0.2 kg BA",,"0.405 kg TU
+0.12 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,
+130,,2025-12-14,Andreas & Richard,,,"89 kg NiSO4*6H2O
+33 kg TU
+19 kg BA",,,,,,,,,No Slotoclean Decasel 5 and cathodic will be done on monday.
+131,,2025-12-15,Andri,50 kg Slotoclean EL DCG,30 kg Slotoclean Decasel 5,,,,,,,100 kg HCl 30%,,,
+132,,2025-12-15,,,,"1.215 kg TU
+0.36 kg BA",,"1.755 kg TU
+0.52 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,
+133,,2025-12-16,,,,"2.97 kg TU
+0.88 kg BA",,"1.08 kg TU
+0.32 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+134,,2025-12-16,,,,"0.675 kg TU
+0.2 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,Daniel
+135,,2025-12-17,,,,"0.81 kg TU
+0.24 kg BA",,"1.485 kg TU
+0.44 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,
+136,,2025-12-17,,,,"0.405 kg TU
+0.12 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,Daniel
+137,,2025-12-18,,,,"0.675 kg TU
+0.2 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,
+138,,2025-12-18,,,,"0.675 kg TU
+0.2 kg BA",,"1.08 kg TU
+0.32 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,
+139,,2025-12-19,Mads & Daniel,42 kg Slotoclean EL DCG,18 kg Slotoclean Decasel 5,,,"104 kg NiSO4*6H2O
+37 kg TU
+20 kg BA",,"110 kg NiSO4*6H2O
+32 kg TU
+11 kg BA",,,,,
+140,,2025-12-19,,,,"1.215 kg TU
+0.36 kg BA",,"0.405 kg TU
+0.12 kg BA",,"0.405 kg TU
+0.12 kg BA",,,,,Reset on konc. in 29 & 30 (nothing added there)
+141,,2025-12-20,,,,"0.675 kg TU
+0.2 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,
+142,,2025-12-20,,,,"1.485 kg TU
+0.44 kg BA",,"1.62 kg TU
+0.48 kg BA",,"1.485 kg TU
+0.44 kg BA",,,,,
+143,,2025-12-21,,,,"2.295 kg TU
+0.68 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,
+144,,2025-12-21,,,,"1.755 kg TU
+0.52 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,
+145,,2025-12-22,Andreas & Mathias,,,,,,,,,130 kg HCl 30%,,,
+146,,2025-12-22,,,,"4.455 kg TU
+1.32 kg BA",,"2.295 kg TU
+0.68 kg BA",,"2.16 kg TU
+0.64 kg BA",,,,,
+147,,2025-12-23,,,,,,"0.81 kg TU
+0.24 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,
+148,,2025-12-27,Julia&Lasse,39 kg Slotoclean EL DCG,,,,,,12 kg BA,,,,,We stopped filter pump for 28 bcs we or next shift need to add a lot chemicals
+149,,2025-12-27,,,,"0.81 kg TU
+0.24 kg BA",,"1.08 kg TU
+0.32 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,Reset bcs of adding chemicals in 28 & 30.
+150,,2025-12-28,,,,,,"1.35 kg TU
+0.4 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Anders
+151,,2025-12-28,,,,,,"1.755 kg TU
+0.52 kg BA",,"1.89 kg TU
+0.56 kg BA",,,,,
+152,,2025-12-29,,,,,,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Anders
+153,,2026-01-02,,,,,,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Anders
+154,,2026-01-03,,,,"0.675 kg TU
+0.2 kg BA",,"2.025 kg TU
+0.6 kg BA",,"1.89 kg TU
+0.56 kg BA",,,,,Anders
+155,,2026-01-04,,,,"2.295 kg TU
+0.68 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Daniel
+156,,2026-01-04,,,,"0.54 kg TU
+0.16 kg BA",,"2.16 kg TU
+0.64 kg BA",,"2.16 kg TU
+0.64 kg BA",,,,,Anders
+157,,2026-01-05,,,,"1.755 kg TU
+0.52 kg BA",,"1.485 kg TU
+0.44 kg BA",,"1.62 kg TU
+0.48 kg BA",,,,,
+158,,2026-01-06,Julia & Roy,,,,,,,"100 kg NiSO4*6H2O
+43 kg TU
+25 kg BA",,160 kg HCl 30%,,,
+159,,2026-01-06,Mads & Daniel,42 kg Slotoclean EL DCG,38 kg Slotoclean Decasel 5,,,"100 kg NiSO4*6H2O
+39 kg TU
+30 kg BA",,,,,,,
+160,,2026-01-07,,,,"4.05 kg TU
+1.2 kg BA",,"2.295 kg TU
+0.68 kg BA",,"2.025 kg TU
+0.6 kg BA",,,,,Julia
+161,,2026-01-07,,,,"0.135 kg TU
+0.04 kg BA",,"1.485 kg TU
+0.44 kg BA",,"1.485 kg TU
+0.44 kg BA",,,,,
+162,,2026-01-07,,,,"1.485 kg TU
+0.44 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,Anders
+163,,2026-01-08,,,,"1.62 kg TU
+0.48 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,Julia
+164,,2026-01-08,,,,"1.215 kg TU
+0.36 kg BA",,"0.54 kg TU
+0.16 kg BA",,"0.54 kg TU
+0.16 kg BA",,,,,
+165,,2026-01-09,Julia & Roy,,27.5 kg Slotoclean Decasel 5,,,,,,,70 kg HCl 30%,,,We added HCl  on 2 diffrent times druing shift
+166,,2026-01-09,,,,"2.565 kg TU
+0.76 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Julia
+167,,2026-01-09,,,,"1.35 kg TU
+0.4 kg BA",,"1.62 kg TU
+0.48 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Mads
+168,,2026-01-10,,,,"2.43 kg TU
+0.72 kg BA",,"0.54 kg TU
+0.16 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,Lasse
+169,,2026-01-10,,,,"3.375 kg TU
+1 kg BA",,"1.485 kg TU
+0.44 kg BA",,"1.485 kg TU
+0.44 kg BA",,,,,Mikkel
+170,,2026-01-12,Mikkel&Richard,37 kg Slotoclean EL DCG,26 kg Slotoclean Decasel 5,"144 kg NiSO4*6H2O
+51 kg TU
+34 kg BA",,,,,,,,,
+171,,2026-01-12,,,,"2.97 kg TU
+0.88 kg BA",,"1.35 kg TU
+0.4 kg BA",,"1.485 kg TU
+0.44 kg BA",,,,,
+172,,2026-01-12,,,,"0.54 kg TU
+0.16 kg BA",,"0.405 kg TU
+0.12 kg BA",,"0.27 kg TU
+0.08 kg BA",,,,,
+173,,2026-01-12,,,,"2.565 kg TU
+0.76 kg BA",,"1.62 kg TU
+0.48 kg BA",,"1.62 kg TU
+0.48 kg BA",,,,,Mikkel
+174,,2026-01-13,,,,,,"1.35 kg TU
+0.4 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,
+175,,2026-01-14,,,,"0.945 kg TU
+0.28 kg BA",,"2.7 kg TU
+0.8 kg BA",,"2.835 kg TU
+0.84 kg BA",,,,,
+176,,2026-01-14,,,,"1.89 kg TU
+0.56 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,Anders
+177,,2026-01-14,,,,"0.945 kg TU
+0.28 kg BA",,"0.405 kg TU
+0.12 kg BA",,"0.54 kg TU
+0.16 kg BA",,,,,
+178,,2026-01-15,,,,"1.35 kg TU
+0.4 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,
+179,,2026-01-15,,,,"1.08 kg TU
+0.32 kg BA",,"0.54 kg TU
+0.16 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,Anders
+180,,2026-01-15,,,,"1.485 kg TU
+0.44 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,
+181,,2026-01-16,Mikkel&Andri,27 kg Slotoclean EL DCG,34 kg Slotoclean Decasel 5,,,"114 kg NiSO4*6H2O
+46 kg TU
+32 kg BA",,,,,,,
+182,,2026-01-16,,,,"1.35 kg TU
+0.4 kg BA",,"1.755 kg TU
+0.52 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+183,,2026-01-17,,,,"3.375 kg TU
+1 kg BA",,"2.16 kg TU
+0.64 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+184,,2026-01-18,,,,"1.755 kg TU
+0.52 kg BA",,"1.485 kg TU
+0.44 kg BA",,,,,,,
+185,,2026-01-19,,,,,,"2.43 kg TU
+0.72 kg BA",,,,,,,
+186,,2026-01-19,,,,"2.025 kg TU
+0.6 kg BA",,"1.62 kg TU
+0.48 kg BA",,,,,,,Mathias/Gustav
+187,,2026-01-19,,,,,,"4.185 kg TU
+1.24 kg BA",,,,,,,Anders
+188,,2026-01-20,Andri&Lasse,,28.5 kg Slotoclean Decasel 5,,,,,,,,,,Julia wrote this bcs someone forget.
+189,,2026-01-20,,,,,,"2.97 kg TU
+0.88 kg BA",,,,,,,
+190,,2026-01-21,Andri&Lasse,,,"61 kg NiSO4*6H2O
+29 kg TU
+15 kg BA",,,,"97 kg NiSO4*6H2O
+43 kg TU
+29 kg BA",,200 kg HCl 30%,,,Julia wrote this bcs someone forget. Bad QC for 30 electrodes after this.
+191,,2026-01-22,,,,"0.675 kg TU
+0.2 kg BA",,"0.135 kg TU
+0.04 kg BA",,"0.54 kg TU
+0.16 kg BA",,,,,Anders
+192,,2026-01-22,,,,"2.16 kg TU
+0.64 kg BA",,"0.54 kg TU
+0.16 kg BA",,"1.755 kg TU
+0.52 kg BA",,,,,
+193,,2026-01-23,,,,"1.35 kg TU
+0.4 kg BA",,"0.135 kg TU
+0.04 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+194,,2026-01-24,,,,"2.16 kg TU
+0.64 kg BA",,"0.135 kg TU
+0.04 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Daniel
+195,,2026-01-24,,,,"2.565 kg TU
+0.76 kg BA",,"0.135 kg TU
+0.04 kg BA",,"2.16 kg TU
+0.64 kg BA",,,,,Roy
+196,,2026-01-25,Julia & Roy,26 kg Slotoclean EL DCG,,,,"57 kg NiSO4*6H2O
+20 kg TU
+19 kg BA",,,,93 kg HCl 30%,,,Vat. 18 (Activation ): x - missing chem to add 47 kg.
+197,,2026-01-25,,,,"2.295 kg TU
+0.68 kg BA",,,,"1.89 kg TU
+0.56 kg BA",,,,,Daniel
+198,,2026-01-25,,,,"0.81 kg TU
+0.24 kg BA",,"0.135 kg TU
+0.04 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,Julia
+199,,2026-01-26,,,,"2.025 kg TU
+0.6 kg BA",,"0.27 kg TU
+0.08 kg BA",,"1.62 kg TU
+0.48 kg BA",,,,,Daniel
+200,,2026-01-26,,,,"1.755 kg TU
+0.52 kg BA",,"0.405 kg TU
+0.12 kg BA",,"2.7 kg TU
+0.8 kg BA",,,,,Julia
+201,,2026-01-27,,,,"1.755 kg TU
+0.52 kg BA",,"0.135 kg TU
+0.04 kg BA",,"0.405 kg TU
+0.12 kg BA",,,,,
+202,,2026-01-27,,,,"1.485 kg TU
+0.44 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.54 kg TU
+0.16 kg BA",,,,,Andri
+203,,2026-01-28,Mikkel&Richard,,,"85 kg NiSO4*6H2O
+36 kg TU
+23 kg BA",,,,"82 kg NiSO4*6H2O
+31 kg TU
+20 kg BA",,107 kg HCl 30%,,,
+204,,2026-01-28,,,,"2.025 kg TU
+0.6 kg BA",,"3.645 kg TU
+1.08 kg BA",,"2.16 kg TU
+0.64 kg BA",,,,,
+205,,2026-01-28,,,,"1.215 kg TU
+0.36 kg BA",,"0.405 kg TU
+0.12 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,
+206,,2026-01-29,,,,"1.89 kg TU
+0.56 kg BA",,"0.675 kg TU
+0.2 kg BA",,"1.755 kg TU
+0.52 kg BA",,,,,
+207,,2026-01-29,,,,"1.485 kg TU
+0.44 kg BA",,"0.405 kg TU
+0.12 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,
+208,,2026-01-29,,,,"1.485 kg TU
+0.44 kg BA",,"0.81 kg TU
+0.24 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,
+209,,2026-01-30,,,,"1.755 kg TU
+0.52 kg BA",,"0.54 kg TU
+0.16 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+210,,2026-01-30,,,,"1.62 kg TU
+0.48 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,
+211,,2026-01-30,,,,"1.755 kg TU
+0.52 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,Daniel
+212,,2026-01-31,,,,"0.405 kg TU
+0.12 kg BA",,"0.405 kg TU
+0.12 kg BA",,"0.27 kg TU
+0.08 kg BA",,,,,Andreas
+213,,2026-01-31,,,,"2.295 kg TU
+0.68 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,Daniel
+214,,2026-02-01,,,,"2.16 kg TU
+0.64 kg BA",,"1.35 kg TU
+0.4 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,Anders
+215,,2026-02-01,,,,"2.565 kg TU
+0.76 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,Daniel
+216,,2026-02-02,Mads & Daniel,20 kg Slotoclean EL DCG,20 kg Slotoclean Decasel 5,,,,,,,,,,We need to dump activation to put in the other 3 bags for Slotoclean Decasel 5 
+217,,2026-02-02,,,,"1.62 kg TU
+0.48 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,
+218,,2026-02-02,,,,"1.08 kg TU
+0.32 kg BA",,"0.81 kg TU
+0.24 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,
+219,,2026-02-03,Andri & Lasse,,60 kg Slotoclean Decasel 5,,,,,,,,,,Julia wrote this bcs someone forget.
+220,,2026-02-03,,,,,,"1.485 kg TU
+0.44 kg BA",,"1.485 kg TU
+0.44 kg BA",,,,,
+221,,2026-02-04,Andri & Lasse,,,,,,,,,,,,
+222,,2026-02-04,,,,,,"1.485 kg TU
+0.44 kg BA",,"1.485 kg TU
+0.44 kg BA",,,,,roy
+223,,2026-02-05,"Julia,Roy, Gustav & Mathias",,,"93 kg NiSO4*6H2O
+36 kg TU
+22 kg BA",,,,,,200 kg HCl 30%,,,
+224,,2026-02-06,,,,"1.08 kg TU
+0.32 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,
+225,,2026-02-06,,,,"1.35 kg TU
+0.4 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,
+226,,2026-02-06,,,,"1.62 kg TU
+0.48 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,Anders
+227,,2026-02-07,,,,"2.7 kg TU
+0.8 kg BA",,"2.16 kg TU
+0.64 kg BA",,,,,,,
+228,,2026-02-07,,,,"2.7 kg TU
+0.8 kg BA",,"2.025 kg TU
+0.6 kg BA",,,,,,,Anders
+229,,2026-02-08,Andreas & Anders,43 kg Slotoclean EL DCG,,,,,,"112 kg NiSO4*6H2O
+48 kg TU
+31 kg BA",,,,,Julia wrote this bcs someone forget. Vat. 31 (Strike) : (start adding 1 dunk per shift)
+230,,2026-02-08,,,,"2.43 kg TU
+0.72 kg BA",,"2.025 kg TU
+0.6 kg BA",,,,,,,
+231,,2026-02-09,,,,"2.025 kg TU
+0.6 kg BA",,"1.485 kg TU
+0.44 kg BA",,"0.135 kg TU
+0.04 kg BA",,,,,
+232,,2026-02-09,,,,"1.215 kg TU
+0.36 kg BA",,"0.27 kg TU
+0.08 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+233,,2026-02-10,Andreas & Lasse,,28 kg Slotoclean Decasel 5,"102 kg NiSO4*6H2O
+31 kg TU
+21 kg BA",,,,,,82 kg HCl 30%,,,Julia wrote this Vat. 29 (Plating 2): x (missing chemicals)
+234,,2026-02-10,,,,"1.755 kg TU
+0.52 kg BA",,"1.62 kg TU
+0.48 kg BA",,"1.62 kg TU
+0.48 kg BA",,,,,Julia
+235,,2026-02-11,Roy & Mads ,,,,,"75 kg NiSO4*6H2O
+37 kg TU
+25 kg BA",,,,,,,We were should put 95 kg NiSO4*6H2O in but only had 75 kg. Mario aproved 
+236,,2026-02-11,,,,"2.43 kg TU
+0.72 kg BA",,"1.485 kg TU
+0.44 kg BA",,"2.565 kg TU
+0.76 kg BA",,,,,Julia
+237,,2026-02-11,,,,"1.62 kg TU
+0.48 kg BA",,,,"1.485 kg TU
+0.44 kg BA",,,,,Mads
+238,,2026-02-12,,,,"1.755 kg TU
+0.52 kg BA",,"1.35 kg TU
+0.4 kg BA",,"2.16 kg TU
+0.64 kg BA",,,,,
+239,,2026-02-12,,,,"0.945 kg TU
+0.28 kg BA",,"1.755 kg TU
+0.52 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,Mads
+240,,2026-02-13,Roy & Mads ,,36 kg Slotoclean Decasel 5,,,,,,,104 kg HCl 30%,,,Julia wrote this bcs someone forget.
+241,,2026-02-13,,,,"1.485 kg TU
+0.44 kg BA",,"2.025 kg TU
+0.6 kg BA",,"1.485 kg TU
+0.44 kg BA",,,,,Mikkel
+242,,2026-02-13,,,,"0.675 kg TU
+0.2 kg BA",,"1.485 kg TU
+0.44 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,
+243,,2026-02-13,,,,"0.675 kg TU
+0.2 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,Daniel
+244,,2026-02-13,,,,"0.81 kg TU
+0.24 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,Anders
+245,,2026-02-13,,,,"2.16 kg TU
+0.64 kg BA",,"2.025 kg TU
+0.6 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,
+246,,2026-02-14,,,,"1.215 kg TU
+0.36 kg BA",,"1.35 kg TU
+0.4 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Anders
+247,,2026-02-14,,,,"1.485 kg TU
+0.44 kg BA",,"1.62 kg TU
+0.48 kg BA",,"1.62 kg TU
+0.48 kg BA",,,,,Daniel
+248,,2026-02-16,Anders & Andri,40 kg Slotoclean EL DCG,,,,,,,,,,,Julia wrote this bcs someone forget.
+249,,2026-02-16,Lasse & Andreas,,,,,,,,,80 kg HCl 30%,,,
+250,,2026-02-16,,,,,,"2.295 kg TU
+0.68 kg BA",,"2.43 kg TU
+0.72 kg BA",,,,,Daniel
+251,,2026-02-17,,,,"0.27 kg TU
+0.08 kg BA",,"1.35 kg TU
+0.4 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Mads
+252,,2026-02-17,,,,,,"2.16 kg TU
+0.64 kg BA",,"2.16 kg TU
+0.64 kg BA",,,,,Daniel
+253,,2026-02-18,Richard & Daniel,,,"100 kg NiSO4*6H2O
+34 kg TU
+21 kg BA",,,,,,,,,
+254,,2026-02-18,Anders & Andri,42 kg Slotoclean EL DCG,59 kg Slotoclean Decasel 5,,,,,"140 kg NiSO4*6H2O
+52 kg TU
+39 kg BA",,235 kg HCl 30%,,,Julia wrote this bcs someone forget.
+255,,2026-02-18,,,,,,"1.62 kg TU
+0.48 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,
+256,,2026-02-18,,,,,,,,"2.16 kg TU
+0.64 kg BA",,,,,
+257,,2026-02-19,,,,"0.945 kg TU
+0.28 kg BA",,"0.54 kg TU
+0.16 kg BA",,"2.565 kg TU
+0.76 kg BA",,,,,Mads
+258,,2026-02-19,,,,"1.89 kg TU
+0.56 kg BA",,,,"1.485 kg TU
+0.44 kg BA",,,,,
+259,,2026-02-19,,,,"1.62 kg TU
+0.48 kg BA",,,,"1.215 kg TU
+0.36 kg BA",,,,,Daniel
+260,,2026-02-20,,,,"1.35 kg TU
+0.4 kg BA",,,,"1.08 kg TU
+0.32 kg BA",,,,,Mads
+261,,2026-02-20,,,,"3.915 kg TU
+1.16 kg BA",,"0.54 kg TU
+0.16 kg BA",,"2.7 kg TU
+0.8 kg BA",,,,,
+262,,2026-02-21,,,,"1.485 kg TU
+0.44 kg BA",,"1.89 kg TU
+0.56 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,
+263,,2026-02-21,,,,"2.025 kg TU
+0.6 kg BA",,"1.755 kg TU
+0.52 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+264,,2026-02-22,,,,"1.62 kg TU
+0.48 kg BA",,"1.89 kg TU
+0.56 kg BA",,"0.27 kg TU
+0.08 kg BA",,,,,
+265,,2026-02-22,,,,"1.755 kg TU
+0.52 kg BA",,"2.295 kg TU
+0.68 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,
+266,,2026-02-23,,,,"1.35 kg TU
+0.4 kg BA",,"1.215 kg TU
+0.36 kg BA",,"0.135 kg TU
+0.04 kg BA",,,,,
+267,,2026-02-23,,,,"1.485 kg TU
+0.44 kg BA",,"1.62 kg TU
+0.48 kg BA",,"0.27 kg TU
+0.08 kg BA",,,,,Daniel
+268,,2026-02-24,,,,"1.215 kg TU
+0.36 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,,,
+269,,2026-02-24,,,,"1.08 kg TU
+0.32 kg BA",,"1.08 kg TU
+0.32 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,
+270,,2026-02-24,,,,"0.81 kg TU
+0.24 kg BA",,"0.81 kg TU
+0.24 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,Daniel
+271,,2026-02-24,,,,"1.08 kg TU
+0.32 kg BA",,"1.08 kg TU
+0.32 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+272,,2026-02-24,,,,"0.945 kg TU
+0.28 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,Daniel (for night shift)
+273,,2026-02-24,,,,"0.27 kg TU
+0.08 kg BA",,"0.405 kg TU
+0.12 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,Daniel
+274,,2026-02-24,,,,"0.945 kg TU
+0.28 kg BA",,"0.81 kg TU
+0.24 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+275,,2026-02-26,,20 kg Slotoclean EL DCG,20 kg Slotoclean Decasel 5,,,,,,,110 kg HCl 30%,,,Julia wrote this bcs someone forget. Vat. 28 (Plating 1) and Vat. 29 (Plating 2): x (missing chemicals)
+276,,2026-02-26,,,,"1.08 kg TU
+0.32 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Lasse
+277,,2026-02-26,,,,"0.675 kg TU
+0.2 kg BA",,"0.675 kg TU
+0.2 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,Daniel
+278,,2026-02-26,,,,"0.81 kg TU
+0.24 kg BA",,,,,,,,,
+279,,2026-02-28,Julia & Carmine,,,"92 kg NiSO4*6H2O
+35 kg TU
+27 kg BA",,"106 kg NiSO4*6H2O
+36 kg TU
+31 kg BA",,,,130 kg HCl 30%,,,
+280,,2026-02-28,,,,"2.7 kg TU
+0.8 kg BA",,"4.32 kg TU
+1.28 kg BA",,"7.695 kg TU
+2.28 kg BA",,,,,
+281,,2026-03-01,,,,"1.215 kg TU
+0.36 kg BA",,,,"2.16 kg TU
+0.64 kg BA",,,,,
+282,,2026-03-01,,,,"2.16 kg TU
+0.64 kg BA",,"1.755 kg TU
+0.52 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,Julia
+283,,2026-03-02,,,,"1.485 kg TU
+0.44 kg BA",,"1.89 kg TU
+0.56 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,
+284,,2026-03-02,,,,"1.08 kg TU
+0.32 kg BA",,"1.62 kg TU
+0.48 kg BA",,"0.27 kg TU
+0.08 kg BA",,,,,Andri
+285,,2026-03-02,,,,"0.945 kg TU
+0.28 kg BA",,"1.08 kg TU
+0.32 kg BA",,"0.27 kg TU
+0.08 kg BA",,,,,Julia
+286,,2026-03-03,Richard & Daniel,,,,,,,,,10 kg HCl 30%,,,"Added in 1 bottle, when the level was low."
+287,,2026-03-03,Julia&Mads&Mathias,,40 kg Slotoclean Decasel 5,,,,,"100 kg NiSO4*6H2O
+34 kg TU
+27 kg BA",,80 kg HCl 30%,,,
+288,,2026-03-03,,,,"1.485 kg TU
+0.44 kg BA",,"1.755 kg TU
+0.52 kg BA",,,,,,,Daniel
+289,,2026-03-03,,,,"0.81 kg TU
+0.24 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,,,
+290,,2026-03-03,,,,"0.54 kg TU
+0.16 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,,,
+291,,2026-03-04,,,,"1.62 kg TU
+0.48 kg BA",,"1.62 kg TU
+0.48 kg BA",,"0.405 kg TU
+0.12 kg BA",,,,,Daniel
+292,,2026-03-05,,,,"1.89 kg TU
+0.56 kg BA",,,,,,,,,Daniel
+293,,2026-03-05,,,,"0.81 kg TU
+0.24 kg BA",,"2.7 kg TU
+0.8 kg BA",,"5.265 kg TU
+1.56 kg BA",,,,,
+294,,2026-03-06,Andri & Anders,24 kg Slotoclean EL DCG,25 kg Slotoclean Decasel 5,"73 kg NiSO4*6H2O
+35 kg TU
+24 kg BA",,"90 kg NiSO4*6H2O
+41 kg TU
+25 kg BA",,,,106 kg HCl 30%,,,Julia wrote this bcs someone forget.
+295,,2026-03-06,,,,"1.08 kg TU
+0.32 kg BA",,"1.08 kg TU
+0.32 kg BA",,"1.485 kg TU
+0.44 kg BA",,,,,Daniel
+296,,2026-03-06,,,,"0.27 kg TU
+0.08 kg BA",,"0.27 kg TU
+0.08 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,Anders (28 & 29 not adjusted as they were dumped)
+297,,2026-03-07,,,,"2.295 kg TU
+0.68 kg BA",,"2.16 kg TU
+0.64 kg BA",,"2.7 kg TU
+0.8 kg BA",,,,,Lasse
+298,,2026-03-07,,,,"1.485 kg TU
+0.44 kg BA",,"1.485 kg TU
+0.44 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,
+299,,2026-03-08,,,,"1.62 kg TU
+0.48 kg BA",,"1.62 kg TU
+0.48 kg BA",,"1.62 kg TU
+0.48 kg BA",,,,,Lasse
+300,,2026-03-08,,,,"1.485 kg TU
+0.44 kg BA",,"1.62 kg TU
+0.48 kg BA",,"1.485 kg TU
+0.44 kg BA",,,,,Roy
+301,,2026-03-09,,,,"2.025 kg TU
+0.6 kg BA",,"1.89 kg TU
+0.56 kg BA",,"2.16 kg TU
+0.64 kg BA",,,,,Mads
+302,,2026-03-10,Mads & Bardia,20 kg Slotoclean EL DCG,90 kg Slotoclean Decasel 5,,,,,,,,,,Reset Activation bcs Nickel
+303,,2026-03-10,,,,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+304,,2026-03-10,,,,"1.62 kg TU
+0.48 kg BA",,"1.62 kg TU
+0.48 kg BA",,"1.755 kg TU
+0.52 kg BA",,,,,Mads
+305,,2026-03-11,Anders & Andri,,,,,,,"89 kg NiSO4*6H2O
+38 kg TU
+27 kg BA",,170 kg HCl 30%,,,
+306,,2026-03-11,,,,"1.215 kg TU
+0.36 kg BA",,"1.08 kg TU
+0.32 kg BA",,"0.405 kg TU
+0.12 kg BA",,,,,
+307,,2026-03-11,,,,"1.215 kg TU
+0.36 kg BA",,"1.35 kg TU
+0.4 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,Julia
+308,,2026-03-11,,,,"0.675 kg TU
+0.2 kg BA",,"0.675 kg TU
+0.2 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Mads
+309,,2026-03-12,,,,"1.215 kg TU
+0.36 kg BA",,"1.35 kg TU
+0.4 kg BA",,"1.62 kg TU
+0.48 kg BA",,,,,Anders
+310,,2026-03-12,,,,"1.485 kg TU
+0.44 kg BA",,"2.16 kg TU
+0.64 kg BA",,"2.295 kg TU
+0.68 kg BA",,,,,Mads
+311,,2026-03-13,,,,"1.89 kg TU
+0.56 kg BA",,"1.08 kg TU
+0.32 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+312,,2026-03-14,,,,"2.565 kg TU
+0.76 kg BA",,"3.24 kg TU
+0.96 kg BA",,"3.24 kg TU
+0.96 kg BA",,,,,Daniel
+313,,2026-03-15,,,,"3.24 kg TU
+0.96 kg BA",,"2.7 kg TU
+0.8 kg BA",,"2.7 kg TU
+0.8 kg BA",,,,,Daniel
+314,,2026-03-15,,,,"0.945 kg TU
+0.28 kg BA",,,,"1.08 kg TU
+0.32 kg BA",,,,,Lasse
+315,,2026-03-16,,,,"1.89 kg TU
+0.56 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,,,Daniel
+316,,2026-03-16,,,,"3.105 kg TU
+0.92 kg BA",,,,"9.99 kg TU
+2.96 kg BA",,,,,Andreas Because of the mistake from last shift i put as much BA and TU in 30 as was meant to go into 28
+317,,2026-03-17,Anders & Mikkel,73 kg Slotoclean EL DCG,32 kg Slotoclean Decasel 5,,,,,,,120 kg HCl 30%,,,
+318,,2026-03-17,,,,"3.24 kg TU
+0.96 kg BA",,"0.675 kg TU
+0.2 kg BA",,"3.51 kg TU
+1.04 kg BA",,,,,Julia
+319,,2026-03-18,Andreas&Julia,,,"100 kg NiSO4*6H2O
+43 kg TU
+29 kg BA",,"132 kg NiSO4*6H2O
+53 kg TU
+36 kg BA",,"125 kg NiSO4*6H2O
+50 kg TU
+34 kg BA",,,,,
+320,,2026-03-18,,,,"1.08 kg TU
+0.32 kg BA",,"1.89 kg TU
+0.56 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+321,,2026-03-18,,,,"0.945 kg TU
+0.28 kg BA",,"1.485 kg TU
+0.44 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,Anders
+322,,2026-03-19,,,,"0.675 kg TU
+0.2 kg BA",,"1.755 kg TU
+0.52 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,Anders
+323,,2026-03-19,,,,"1.08 kg TU
+0.32 kg BA",,"1.35 kg TU
+0.4 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,
+324,,2026-03-20,Daniel & Mads,,,,,,,,,115 kg HCl 30%,,,Dumped strike and added in HCl
+325,,2026-03-20,,,,"1.08 kg TU
+0.32 kg BA",,"2.295 kg TU
+0.68 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+326,,2026-03-20,,,,"1.62 kg TU
+0.48 kg BA",,"2.7 kg TU
+0.8 kg BA",,"1.62 kg TU
+0.48 kg BA",,,,,Daniel
+327,,2026-03-21,,,,"1.08 kg TU
+0.32 kg BA",,"2.025 kg TU
+0.6 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,
+328,,2026-03-21,,,,"1.485 kg TU
+0.44 kg BA",,"2.16 kg TU
+0.64 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,
+329,,2026-03-22,,,,"0.81 kg TU
+0.24 kg BA",,"1.35 kg TU
+0.4 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+330,,2026-03-22,,,,"0.675 kg TU
+0.2 kg BA",,"1.08 kg TU
+0.32 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,Daniel
+331,,2026-03-23,,,,"0.945 kg TU
+0.28 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,Andri
+332,,2026-03-23,,,,"2.565 kg TU
+0.76 kg BA",,"2.295 kg TU
+0.68 kg BA",,"2.16 kg TU
+0.64 kg BA",,,,,Daniel
+333,,2026-03-24,,,,"0.675 kg TU
+0.2 kg BA",,"0.675 kg TU
+0.2 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,Anders
+334,,2026-03-24,,,,"1.89 kg TU
+0.56 kg BA",,"2.025 kg TU
+0.6 kg BA",,"1.89 kg TU
+0.56 kg BA",,,,,
+335,,2026-03-25,Daniel & Mads,,27 kg Slotoclean Decasel 5,,,"112 kg NiSO4*6H2O
+35 kg TU
+25 kg BA",,,,136 kg HCl 30%,,,
+336,,2026-03-25,,,,"1.215 kg TU
+0.36 kg BA",,"1.08 kg TU
+0.32 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,Anders
+337,,2026-03-25,,,,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,
+338,,2026-03-26,,,,"0.405 kg TU
+0.12 kg BA",,"0.405 kg TU
+0.12 kg BA",,"0.405 kg TU
+0.12 kg BA",,,,,
+339,,2026-03-26,,,,"0.81 kg TU
+0.24 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,
+340,,2026-03-27,,,,"0.36 kg BA
+1.215 kg TU",,"1.08 kg TU
+0.32 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Anders
+341,,2026-03-27,,,,"1.35 kg TU
+0.4 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,,,
+342,,2026-03-28,,,,"1.485 kg TU
+0.44 kg BA",,"1.62 kg TU
+0.48 kg BA",,"2.7 kg TU
+0.8 kg BA",,,,,Roy
+343,,2026-03-28,,,,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Roy
+344,,2026-03-29,,,,"1.485 kg TU
+0.44 kg BA",,"1.35 kg TU
+0.4 kg BA",,"1.62 kg TU
+0.48 kg BA",,,,,
+345,,2026-03-29,,,,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,0*/
+346,,2026-03-30,,,,"2.295 kg TU
+0.68 kg BA",,"2.16 kg TU
+0.64 kg BA",,"2.16 kg TU
+0.64 kg BA",,,,,
+347,,2026-03-31,,,,"3.24 kg TU
+0.96 kg BA",,"3.375 kg TU
+1 kg BA",,"3.105 kg TU
+0.92 kg BA",,,,,
+348,,2026-04-01,,,,"1.89 kg TU
+0.56 kg BA",,"1.89 kg TU
+0.56 kg BA",,"2.025 kg TU
+0.6 kg BA",,,,,
+349,,2026-04-07,,,,"0.675 kg TU
+0.2 kg BA",,"0.54 kg TU
+0.16 kg BA",,"0.405 kg TU
+0.12 kg BA",,,,,
+350,,2026-04-07,,,,"1.08 kg TU
+0.32 kg BA",,"1.08 kg TU
+0.32 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,
+351,,2026-04-08,,,,"0.945 kg TU
+0.28 kg BA",,"1.08 kg TU
+0.32 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,
+352,,2026-04-08,,,,"1.08 kg TU
+0.32 kg BA",,"0.945 kg TU
+0.28 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+353,,2026-04-08,,,,"0.945 kg TU
+0.28 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,
+354,,2026-04-09,,,,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+355,,2026-04-09,,,,"1.215 kg TU
+0.36 kg BA",,"1.62 kg TU
+0.48 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+356,,2026-04-10,,,,"1.08 kg TU
+0.32 kg BA",,"1.08 kg TU
+0.32 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,
+357,,2026-04-11,,,,"3.51 kg TU
+1.04 kg BA",,"1.89 kg TU
+0.56 kg BA",,"3.645 kg TU
+1.08 kg BA",,,,,
+358,,2026-04-11,,,,"1.485 kg TU
+0.44 kg BA",,"1.755 kg TU
+0.52 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,
+359,,2026-04-12,,,,"0.945 kg TU
+0.28 kg BA",,"1.755 kg TU
+0.52 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,Julia
+360,,2026-04-12,,,,"1.35 kg TU
+0.4 kg BA",,"2.025 kg TU
+0.6 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,
+361,,2026-04-14,,,,"0.675 kg TU
+0.2 kg BA",,"0.675 kg TU
+0.2 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+362,,2026-04-14,,,,"0.81 kg TU
+0.24 kg BA",,"0.81 kg TU
+0.24 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,
+363,,2026-04-14,,,,"1.08 kg TU
+0.32 kg BA",,"1.08 kg TU
+0.32 kg BA",,"1.485 kg TU
+0.44 kg BA",,,,,
+364,,2026-04-15,,,,"0.675 kg TU
+0.2 kg BA",,"0.675 kg TU
+0.2 kg BA",,"0.54 kg TU
+0.16 kg BA",,,,,
+365,,2026-04-15,,,,"2.025 kg TU
+0.6 kg BA",,"2.295 kg TU
+0.68 kg BA",,"2.16 kg TU
+0.64 kg BA",,,,,
+366,,2026-04-16,,,,"0.81 kg TU
+0.24 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,
+367,,2026-04-16,,,,"1.08 kg TU
+0.32 kg BA",,"1.08 kg TU
+0.32 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,
+368,,2026-04-16,,,,"0.945 kg TU
+0.28 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,
+369,,2026-04-17,,,,"1.215 kg TU
+0.36 kg BA",,"1.08 kg TU
+0.32 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,
+370,,2026-04-21,,,,"2.16 kg TU
+0.64 kg BA",,"2.295 kg TU
+0.68 kg BA",,"2.16 kg TU
+0.64 kg BA",,,,,
+371,,2026-04-21,,,,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,
+372,,2026-04-22,Anders,44 kg Slotoclean EL DCG,20 kg Slotoclean Decasel 5,,,,,,,,,,
+373,,2026-04-22,Daniel & Søren,,,"148 kg NiSO4*6H2O
+53 kg TU
+39 kg BA",,,,,,,,,Vat. 28 (Plating 1): 53 kg TU (TU)
+374,,2026-04-22,,,,"0.945 kg TU
+0.28 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,
+375,,2026-04-22,,,,"1.35 kg TU
+0.4 kg BA",,"2.16 kg TU
+0.64 kg BA",,"2.16 kg TU
+0.64 kg BA",,,,,
+376,,2026-04-23,,,,"0.81 kg TU
+0.24 kg BA",,"1.08 kg TU
+0.32 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+377,,2026-04-23,,,,"2.025 kg TU
+0.6 kg BA",,"1.08 kg TU
+0.32 kg BA",,"1.08 kg TU
+0.32 kg BA",,,,,
+378,,2026-04-24,Anders,,,,,,,,,100 kg HCl 30%,,,
+379,,2026-04-24,,,,"0.945 kg TU
+0.28 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,
+380,,2026-04-25,,,,"3.375 kg TU
+1 kg BA",,"3.51 kg TU
+1.04 kg BA",,"3.375 kg TU
+1 kg BA",,,,,Julia
+381,,2026-04-26,,,,"2.7 kg TU
+0.8 kg BA",,"2.7 kg TU
+0.8 kg BA",,"2.835 kg TU
+0.84 kg BA",,,,,
+382,,2026-04-27,Richard&Mathias,,40 kg Slotoclean Decasel 5,,,"169 kg NiSO4*6H2O
+58 kg TU
+41 kg BA",,"148 kg NiSO4*6H2O
+53 kg TU
+36 kg BA",,110 kg HCl 30%,,,
+383,,2026-04-27,,,,"2.565 kg TU
+0.76 kg BA",,"2.7 kg TU
+0.8 kg BA",,"2.7 kg TU
+0.8 kg BA",,,,,
+384,,2026-04-27,,,,"1.485 kg TU
+0.44 kg BA",,"1.35 kg TU
+0.4 kg BA",,"1.485 kg TU
+0.44 kg BA",,,,,Søren
+385,,2026-04-28,,,,"2.43 kg TU
+0.72 kg BA",,,,,,,,,Lasse
+386,,2026-04-29,,,,"1.89 kg TU
+0.56 kg BA",,"4.32 kg TU
+1.28 kg BA",,"4.455 kg TU
+1.32 kg BA",,,,,Lasse
+387,,2026-04-29,,,,"1.35 kg TU
+0.4 kg BA",,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Søren
+388,,2026-04-30,Søren&Daniel,40 kg Slotoclean EL DCG,,,,,,15 kg BA,,180 kg HCl 30%,,,
+389,,2026-04-30,,,,"1.755 kg TU
+0.52 kg BA",,"1.755 kg TU
+0.52 kg BA",,"1.89 kg TU
+0.56 kg BA",,,,,Lasse
+390,,2026-05-01,,,,"1.755 kg TU
+0.52 kg BA",,"1.89 kg TU
+0.56 kg BA",,"1.89 kg TU
+0.56 kg BA",,,,,Lasse
+391,,2026-05-01,,,,"0.945 kg TU
+0.28 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,Lasse
+392,,2026-05-01,,,,"1.08 kg TU
+0.32 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,Daniel
+393,,2026-05-01,,,,"0.81 kg TU
+0.24 kg BA",,"0.81 kg TU
+0.24 kg BA",,"0.945 kg TU
+0.28 kg BA",,,,,Mads
+394,,2026-05-02,,,,"1.485 kg TU
+0.44 kg BA",,"1.485 kg TU
+0.44 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,Julia
+395,,2026-05-02,,,,"1.62 kg TU
+0.48 kg BA",,"1.62 kg TU
+0.48 kg BA",,"1.755 kg TU
+0.52 kg BA",,,,,Mads
+396,,2026-05-03,,,,"1.35 kg TU
+0.4 kg BA",,"1.35 kg TU
+0.4 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,Julia
+397,,2026-05-03,,,,"1.89 kg TU
+0.56 kg BA",,"1.755 kg TU
+0.52 kg BA",,"1.755 kg TU
+0.52 kg BA",,,,,
+398,,2026-05-04,,,,"0.945 kg TU
+0.28 kg BA",,"0.945 kg TU
+0.28 kg BA",,"0.81 kg TU
+0.24 kg BA",,,,,
+399,,2026-05-04,,,,"1.08 kg TU
+0.32 kg BA",,"2.16 kg TU
+0.64 kg BA",,"2.16 kg TU
+0.64 kg BA",,,,,Mads
+400,,2026-05-05,Mathias&Anders,,40 kg Slotoclean Decasel 5,,,,,,,130 kg HCl 30%,8 cm,,
+401,,2026-05-05,,,,,,"1.485 kg TU
+0.44 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Daniel
+402,,2026-05-11,"Morten, Mikkel & Anders",,50 kg Slotoclean Decasel 5,,,"125 kg NiSO4*6H2O
+50 kg TU
+37.5 kg BA",54 cm,"125 kg NiSO4*6H2O
+50 kg TU
+37.5 kg BA",54 cm,,,,
+403,,2026-05-12,,,,,,"2.7 kg TU
+0.8 kg BA",,"2.565 kg TU
+0.76 kg BA",,,,,
+404,,2026-05-13,,,,,,"1.485 kg TU
+0.44 kg BA",,"1.485 kg TU
+0.44 kg BA",,,,,Søren
+405,,2026-05-13,,,,,,"1.215 kg TU
+0.36 kg BA",,"1.215 kg TU
+0.36 kg BA",,,,,Julia
+406,,2026-05-15,"Morten, Lasse, Søren, Mikkel",,,,,,,,,110 kg HCl 30%,7 cm,10:00:00,
+407,,2026-05-15,"Julia, Roy, Mathias, Thor",40 kg Slotoclean EL DCG,,,,,,,,,,21:00:00,
+408,,2026-05-15,,,,,,"0.54 kg TU
+0.16 kg BA",,"0.675 kg TU
+0.2 kg BA",,,,,
+409,,2026-05-15,,,,"1.215 kg TU
+0.36 kg BA",,"1.35 kg TU
+0.4 kg BA",,"0.32 kg BA
+1.08 kg TU",,,,,Julia (added to vat.28 to check how quickly it would change conc.
+410,,2026-05-18,,,,,,"1.215 kg TU
+0.36 kg BA",,"1.35 kg TU
+0.4 kg BA",,,,,
+411,,2026-05-18,,,,,,"0.405 kg TU
+0.12 kg BA",,"0.54 kg TU
+0.16 kg BA",,,,,After finished all our electrodes. Cobalt sulphate added to the list (AB010726)
+412,,2026-07-08,Roy/Andri,160 kg Slotoclean EL DCG,,,,,,,,,,14:00:00,
+413,,2026-07-09,"Roy, Lasse",,160 kg Slotoclean Decasel 5,"280 kg NiSO4*6H2O
+136 kg NiCl2*6H2O
+150 kg TU
+112.7 kg BA
+43 kg CoSO4*7H2O",,,,,,"300 kg HCl 30%
+475 kg NiCl2*6H2O",,,
+414,,2026-07-10,Anders,,,"25 kg NiSO4*6H2O
+12.5 kg NiCl2*6H2O
+12.5 kg TU
+10.5 kg BA
+5 kg CoSO4*7H2O",19 cm,,,,,,,11:00:00,"Had to dump some liquid out of 28 into 30, using the pipe system from vat 25. This was because the water level rose too high when adding the nickel balls as the last step."
+415,,2026-07-13,,,,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,,,,,,,,New addition factor for TU have been added (AB100726)
+416,,2026-07-13,,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,,,,,,,,
+418,2026-07-23 14:15:36,2026-07-23,Daniel,60 kg Slotoclean EL DCG,20 kg Slotoclean Decasel 5,,,,,,,,,14:00:00,
+419,2026-07-24 07:22:57,2026-07-23,Lasse & Mathias,,,"25 kg TU
+14 kg CoSO4*7H2O",,,,,,,,16:00:00,
+420,2026-07-26 23:18:39,2026-07-24,Lasse & Mathias,,,,,,,,,80 kg HCl 30%,,15:00:00,
+421,2026-07-27 12:35:16,2026-07-27,AMA,,20 kg Slotoclean Decasel 5,25 kg TU,,,,,,,,09:00:00,
+422,2026-07-29 12:16:32,2026-07-29,Anders & Mathias,,,"25 kg TU
+27.6 kg CoSO4*7H2O",,,,,,,,12:30:00,
+423,2026-07-30 19:55:27,2026-07-30,Julia&Søren,,,"137.5 kg NiCl2*6H2O
+280.4 kg NiSO4*6H2O
+150 kg TU
+112.4 kg BA
+43 kg CoSO4*7H2O",,,,,,,,17:50:00,We complitly restarted plating 28. It was complitly dumped and started from 0.
+424,2026-07-31 11:05:56,2026-07-31,"Andri, Andreas, Mathias & Anders",,,"37 kg NiCl2*6H2O
+110 kg NiSO4*6H2O
+51 kg TU
+30 kg BA
+25.8 kg CoSO4*7H2O",,,,,,,,09:30:00,
+425,2026-08-03 21:18:33,2026-08-03,Julia,,,"25 kg TU
+7.5 kg CoSO4*7H2O",,,,,,,,20:30:00,
+426,2026-08-04 12:58:31,2026-08-04,Anders B,,,0 kg TU,,0 kg NiCl2*6H2O,,,,,,00:00:00,THIS IS NOT A ADDITION BUT A WAY TO RESET THE COUNTER AS WE WILL BEGIN ADDITION AT THIS POINT FORWARD. (Anders B)
+427,2026-08-05 14:08:26,2026-08-05,"Andri, Andreas, Anders (And^3)",,,,,,,,,"506.5 kg NiCl2*6H2O
+350 kg HCl 30%",,13:00:00,The entire vat was dumped and re-made.
+428,2026-08-05 22:00:57,2026-08-05,Julia&Søren,,,"2.8 kg TU
+0.28 kg BA
+0.7 kg CoSO4*7H2O",,,,,,,,21:59:00,
+429,2026-08-06 14:10:26,2026-08-06,Anders B,,,"4 kg TU
+0.4 kg BA
+1 kg CoSO4*7H2O",,,,,,,,14:10:00,
+430,2026-08-06 20:00:11,2026-08-06,Julia,,,"1.6 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,,,,,,,20:10:00,
+431,2026-08-07 07:13:55,2026-08-06,Anders B,40 kg Slotoclean EL DCG,,,,,,,,,,14:00:00,
+432,2026-08-07 12:50:17,2026-08-07,Anders B,,,"4.8 kg TU
+0.48 kg BA
+1.2 kg CoSO4*7H2O",,,,,,,,13:00:00,
+433,2026-08-10 13:25:01,2026-08-10,Julia,,,"17.2 kg TU
+1.72 kg BA
+4.3 kg CoSO4*7H2O",,,,,,,,00:00:00,
+434,2026-08-11 18:37:16,2026-08-11,Morten,,20 kg Slotoclean Decasel 5,10 kg BA,,,,,,,,00:00:00,
+435,2026-08-11 19:30:38,2026-08-11,Morten,,,"8 kg TU
+0.8 kg BA
+2 kg CoSO4*7H2O",,,,,,,,00:00:00,
+436,2026-08-12 05:09:37,2026-08-12,AMA,,,"2 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,,,,,05:07:00,
+437,2026-08-12 12:04:49,2026-08-12,Julia,,,"2 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,,,,,00:00:00,
+438,2026-08-12 14:50:40,2026-08-12,Mads&Andreas&Julia&Mathias,,,,,,,"280 kg NiSO4*6H2O
+150 kg TU
+114 kg BA
+43 kg CoSO4*7H2O
+135 kg NiCl2*6H2O",,,,14:30:00,
+439,2026-08-12 20:00:18,2026-08-12,Morten,,,"2 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,,,,,00:00:00,
+440,2026-08-13 05:59:34,2026-08-13,AMA,,,"2.8 kg TU
+0.28 kg BA
+0.7 kg CoSO4*7H2O",,,,,,,,06:05:00,
+441,2026-08-13 15:37:10,2026-08-13,Morten,,,"2.8 kg TU
+0.28 kg BA
+1.26 kg CoSO4*7H2O",,,,,,,,00:00:00,
+442,2026-08-13 21:38:30,2026-08-13,Morten,,,"1.6 kg TU
+0.16 kg BA
+0.72 kg CoSO4*7H2O",,,,,,,,00:00:00,
+443,2026-08-14 05:01:54,2026-08-14,AMA,,,"2.4 kg TU
+0.24 kg BA
+1.08 kg CoSO4*7H2O",,,,,,,,05:40:00,
+444,2026-08-17 07:43:37,2026-08-17,Morten,,,"18.8 kg TU
+1.88 kg BA
+8.46 kg CoSO4*7H2O",,,,,,,,00:00:00,
+445,2026-08-17 23:29:40,2026-08-17,JM,,,"1.26 kg CoSO4*7H2O
+2.8 kg TU
+0.28 kg BA",,,,,,,,23:28:00,
+446,2026-08-18 08:53:19,2026-08-18,Morten,,,"2.4 kg TU
+0.24 kg BA
+1.08 kg CoSO4*7H2O",,,,,,,,09:00:00,
+447,2026-08-18 20:20:23,2026-08-19,Morten,,,,,,,"7.6 kg TU
+0.76 kg BA
+3.42 kg CoSO4*7H2O",,,,12:15:00,
+448,2026-08-19 07:34:40,2026-08-19,Morten,,,"5.2 kg TU
+0.52 kg BA
+2.34 kg CoSO4*7H2O",,,,,,,,07:35:00,
+449,2026-08-19 12:12:00,2026-08-19,Morten,,,,,,,"7.6 kg TU
+0.76 kg BA
+3.42 kg CoSO4*7H2O",,,,00:00:00,
+450,2026-08-19 12:12:18,2026-08-14,Carmine/Mathias,,8 kg Slotoclean Decasel 5,"12 kg TU
+10 kg BA
+25 kg CoSO4*7H2O",,,,,,,,17:00:00,Julia filling informetion up bcs ppl dont know how.
+451,2026-08-19 20:55:14,2026-08-19,dc,,,"2.835 kg TU
+0.28 kg BA
+0.7 kg CoSO4*7H2O",,,,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,,,21:00:00,
+452,2026-08-20 04:59:47,2026-08-19,LH,,,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,,,"2.835 kg TU
+0.28 kg BA
+0.7 kg CoSO4*7H2O",,,,05:00:00,
+453,2026-08-20 10:48:38,2026-08-20,Morten,,,"0.81 kg TU
+0.08 kg BA
+0.2 kg CoSO4*7H2O",,,,"0.81 kg TU
+0.08 kg BA
+0.2 kg CoSO4*7H2O",,,,12:00:00,
+454,2026-08-20 20:51:49,2026-08-20,DC,,,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,20:51:00,
+455,2026-08-21 05:40:56,2026-08-20,LH,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,05:40:00,
+456,2026-08-21 13:30:21,2026-08-21,Morten,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,13:30:00,
+457,2026-08-21 21:59:18,2026-08-21,AMA,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,,,22:05:00,
+458,2026-08-22 09:23:50,2026-08-22,MP,,,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,,,"3.24 kg TU
+0.32 kg BA
+0.8 kg CoSO4*7H2O",,,,09:21:00,
+459,2026-08-22 21:09:05,2026-08-22,AMA,,,"2.835 kg TU
+0.28 kg BA
+0.7 kg CoSO4*7H2O",,,,"2.835 kg TU
+0.28 kg BA
+0.7 kg CoSO4*7H2O",,,,00:00:00,
+460,2026-08-23 07:58:20,2026-08-23,MP,,,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,,,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,,,07:56:00,
+461,2026-08-23 19:06:10,2026-08-23,ama,,,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,,,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,,,19:10:00,
+462,2026-08-24 03:47:16,2026-08-24,MP,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,03:33:00,
+463,2026-08-24 14:17:31,2026-08-24,DC,,,"2.835 kg TU
+0.28 kg BA
+0.7 kg CoSO4*7H2O",,,,"2.835 kg TU
+0.28 kg BA
+0.7 kg CoSO4*7H2O",,,,14:15:00,
+464,2026-08-24 22:22:13,2026-08-24,AMA,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,22:15:00,
+465,2026-08-25 06:16:49,2026-08-24,Morten,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,,,06:10:00,
+466,2026-08-25 13:14:01,2026-08-25,DC,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,,,13:45:00,
+467,2026-08-25 22:03:15,2026-08-25,ama,,,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,,
+468,2026-08-26 05:30:51,2026-08-26,Morten,,,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,,,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,,,06:00:00,
+469,2026-08-26 14:01:33,2026-08-26,dc,,,"0.12 kg BA
+0.3 kg CoSO4*7H2O
+1.215 kg TU",,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,,,14:20:00,
+470,2026-08-26 21:28:03,2026-08-26,RR,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,,,21:30:00,
+471,2026-08-27 06:09:25,2026-08-27,Morten,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,06:10:00,
+472,2026-08-27 14:18:06,2026-08-27,dc,,,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,,,14:25:00,
+473,2026-08-28 06:02:55,2026-08-28,Morten,,,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,,,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,,,06:05:00,
+474,2026-08-29 12:09:39,2026-08-29,MP,,,"5.265 kg TU
+0.52 kg BA
+1.3 kg CoSO4*7H2O",,,,"5.265 kg TU
+0.52 kg BA
+1.3 kg CoSO4*7H2O",,,,12:40:00,
+475,2026-08-29 21:25:27,2026-08-29,MP,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,21:30:00,
+476,2026-08-30 08:14:24,2026-08-30,MA,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,"0.81 kg TU
+0.08 kg BA
+0.2 kg CoSO4*7H2O",,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,08:15:00,"We are still not addig cobalt, until ohter mesage is given"
+477,2026-08-30 20:56:35,2026-08-30,MP,,,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,,,21:00:00,
+478,2026-08-31 05:38:19,2026-08-30,MA,,,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,,,05:45:00,
+479,2026-08-31 13:50:26,2026-08-31,JM,,,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,,,13:48:00,
+480,2026-08-31 21:36:40,2026-08-31,MP,,,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,,,21:45:00,
+481,2026-09-01 05:23:00,2026-09-01,AT,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,,,05:20:00,
+482,2026-09-01 12:17:39,2026-09-01,JM,,,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,,,12:12:00,
+483,2026-09-01 21:18:58,2026-09-01,MP,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,,,21:20:00,
+484,2026-09-02 05:51:44,2026-09-02,AT,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,,,06:00:00,
+485,2026-09-02 14:24:28,2026-09-02,JM,,,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,,,13:00:00,
+486,2026-09-03 05:50:47,2026-09-03,DC,,,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,"0.7 kg CoSO4*7H2O
+2.835 kg TU
+0.28 kg BA",,,,05:50:00,
+487,2026-09-03 07:06:10,2026-09-01,MP,,80 kg Slotoclean Decasel 5,,,,,17 kg CoSO4*7H2O,,,,20:00:00,
+488,2026-09-04 07:13:13,2026-09-03,Julia,,60 kg Slotoclean Decasel 5,,,,,,,,,14:00:00,
+489,2026-09-04 10:42:59,2026-09-04,CM,,,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,"3.645 kg TU
+0.36 kg BA
+0.9 kg CoSO4*7H2O",,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,,,11:00:00,
+490,2026-09-04 11:07:04,2026-09-04,JM,,,,,,,,,"83 kg NiCl2*6H2O
+80 kg HCl 30%",,12:00:00,
+491,2026-09-04 15:18:03,2026-09-03,AB,,,,,,,,,"509 kg NiCl2*6H2O
+350 kg HCl 30%",,20:00:00,Strike was dumped and remade doing evening and nightshift.
+492,2026-09-04 21:04:17,2026-09-04,MA,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,,,21:09:00,
+493,2026-09-05 10:24:23,2026-09-05,Morten,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,"2.835 kg TU
+0.28 kg BA
+0.7 kg CoSO4*7H2O",,"0.6 kg CoSO4*7H2O
+2.43 kg TU
+0.24 kg BA",,,,10:20:00,
+494,2026-09-05 21:29:51,2026-09-05,LH,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,21:20:00,
+495,2026-09-06 06:09:43,2026-09-06,Morten,,,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,06:00:00,
+496,2026-09-07 03:34:43,2026-09-07,Morten,,,"4.05 kg TU
+0.4 kg BA
+1 kg CoSO4*7H2O",,"4.86 kg TU
+0.48 kg BA
+1.2 kg CoSO4*7H2O",,"3.645 kg TU
+0.36 kg BA
+0.9 kg CoSO4*7H2O",,,,03:30:00,
+497,2026-09-07 07:22:21,2026-09-04,MA,,,,,,,25 kg TU,,,,18:00:00,
+498,2026-09-08 05:07:54,2026-09-07,AMA,,,"3.645 kg TU
+0.36 kg BA
+0.9 kg CoSO4*7H2O",,"5.67 kg TU
+0.56 kg BA
+1.4 kg CoSO4*7H2O",,"4.455 kg TU
+0.44 kg BA
+1.1 kg CoSO4*7H2O",,,,06:00:00,
+499,2026-09-08 21:56:19,2026-09-08,AT MA,,,"2.835 kg TU
+0.28 kg BA
+0.7 kg CoSO4*7H2O",,,,,,,,22:00:00,
+500,2026-09-09 04:37:01,2026-09-09,AMA,,,"0.3 kg CoSO4*7H2O
+1.215 kg TU
+0.12 kg BA",,"4.86 kg TU
+0.48 kg BA
+1.2 kg CoSO4*7H2O",,"4.455 kg TU
+0.44 kg BA
+1.1 kg CoSO4*7H2O",,,,05:00:00,
+501,2026-09-09 22:16:14,2026-09-09,AT MA,,,"2.835 kg TU
+0.28 kg BA
+0.7 kg CoSO4*7H2O",,"0.36 kg BA
+0.9 kg CoSO4*7H2O
+3.645 kg TU",,"3.24 kg TU
+0.32 kg BA
+0.8 kg CoSO4*7H2O",,,,22:00:00,
+502,2026-09-10 06:07:01,2026-09-10,AMA,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,06:20:00,
+503,2026-09-10 07:49:54,2026-09-08,MA AT,25 kg Slotoclean EL DCG,25 kg Slotoclean Decasel 5,25 kg TU,,,,,,,,18:00:00,
+504,2026-09-10 11:36:32,2026-09-10,JM,,,"0.81 kg TU
+0.08 kg BA
+0.2 kg CoSO4*7H2O",,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,"1.215 kg TU
+0.12 kg BA
+0.3 kg CoSO4*7H2O",,,,11:40:00,
+505,2026-09-10 20:53:19,2026-09-10,AT,,,"0.5 kg CoSO4*7H2O
+2.025 kg TU
+0.2 kg BA",,"0.6 kg CoSO4*7H2O
+2.43 kg TU
+0.24 kg BA",,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,20:45:00,
+506,2026-09-11 04:05:25,2026-09-10,AMA,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,,,,
+507,2026-09-11 11:29:30,2026-09-11,dc,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,,,11:35:00,
+508,2026-09-11 11:57:54,2026-09-11,JM,,,3 kg BA,,,,,,,,11:00:00,
+509,2026-09-11 22:02:02,2026-09-11,Morten,,,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,21:55:00,
+510,2026-09-12 08:42:21,2026-09-11,LH,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,08:20:00,
+511,2026-09-12 19:48:37,2026-09-12,Morten,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,"2.835 kg TU
+0.28 kg BA
+0.7 kg CoSO4*7H2O",,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,,,20:00:00,
+512,2026-09-13 07:41:45,2026-09-12,LH,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,"2.835 kg TU
+0.28 kg BA
+0.7 kg CoSO4*7H2O",,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,,,08:00:00,
+513,2026-09-13 19:39:45,2026-09-13,Morten,,,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,"2.835 kg TU
+0.28 kg BA
+0.7 kg CoSO4*7H2O",,,,19:45:00,
+514,2026-09-14 06:18:01,2026-09-13,SEK,,,"1.62 kg TU
+0.16 kg BA
+0.4 kg CoSO4*7H2O",,"2.43 kg TU
+0.24 kg BA
+0.6 kg CoSO4*7H2O",,"2.025 kg TU
+0.2 kg BA
+0.5 kg CoSO4*7H2O",,,,06:00:00,
